@@ -1,652 +1,497 @@
 Surplus Number,Qty,Description,Price,Public Date,Type,Category
-155213 0019 41555,1,PAINTING,$50.00,null,Painting,Art and Performing Arts Equipment/Supply
-155213 0018 41555,4,FRAMED PICTURE,$40.00,null,Print/Picture,Art and Performing Arts Equipment/Supply
-156713 0014 41983,1,"CAMERA, CANON, HFR800",$100.00,null,Photography/Camera,Audio Visual
-156844 0012 42321,1,"CAMERA, PANASONIC",$50.00,null,Photography/Camera,Audio Visual
-157368 0016 42458,1,"PROJECTOR, 3M, MPRO 150",$40.00,9/18/2023,Projector/Screen,Audio Visual
-158287 0053 42193,1,"PROJECTOR, EPSON",$100.00,null,Projector/Screen,Audio Visual
-158287 0024 42193,1,"PROJECTOR, OPTIMA",$100.00,null,Projector/Screen,Audio Visual
-156998 0009 42042,1,"TELEVISION, INSIGNIA, NS-L422-10A",$50.00,null,Television,Audio Visual
-157739 0001 42212,1,"TELEVISION, RCA",$50.00,null,Television,Audio Visual
-157379 0019 42333,1,"TELEVISION, SAMSUNG, LH52BPQLBC/ZA,",$50.00,9/27/2023,Television,Audio Visual
-156597 0010 41945,1,"TELEVISION, SCEPTRE, X32BV, 829A3FP1AA0304",$50.00,null,Television,Audio Visual
-158403 0020 42465,1,"TELEVISION, SEIKI, SF40FY27",$50.00,null,Television,Audio Visual
-157379 0008 42333,1,"TELEVISION, SHARP, PN-E601, 0C006578",$75.00,9/27/2023,Television,Audio Visual
-158403 0008 42465,3,COMPUTER,$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0140 41873,1,"COMPUTER, APPLE, IMAC, D253130GG7F",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0007 41873,1,"COMPUTER, APPLE, IMAC, D25S312LGG7F",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0005 41873,1,"COMPUTER, APPLE, IMAC, D25S3131GG7F",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0128 41873,1,"COMPUTER, APPLE, IMAC, D25SL04EGG7D",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156807 0007 41884,1,"COMPUTER, CUSTOM",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156807 0032 41884,1,"COMPUTER, CUSTOM",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156807 0054 41884,1,"COMPUTER, CUSTOM",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156807 0057 41884,1,"COMPUTER, CUSTOM",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156807 0067 41884,1,"COMPUTER, CUSTOM",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156807 0069 41884,1,"COMPUTER, CUSTOM",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156807 0058 41884,1,"COMPUTER, DELL",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157181 0001 42229,1,"COMPUTER, DELL",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157181 0003 42229,1,"COMPUTER, DELL",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157181 0006 42229,1,"COMPUTER, DELL",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157181 0007 42229,1,"COMPUTER, DELL",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157181 0013 42229,1,"COMPUTER, DELL",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156946 0056 42028,1,"COMPUTER, DELL, BPCBXQ2",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156833 0001 42263,1,"COMPUTER, DELL, D11S",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157368 0005 42458,1,"COMPUTER, DELL, MINI PC",$100.00,9/18/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-156832 0005 42265,1,"COMPUTER, DELL, OPTIPLEX 7050",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158427 0009 42469,1,"COMPUTER, DELL, OPTIPLEX 7050",$50.00,9/27/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158427 0010 42469,1,"COMPUTER, DELL, OPTIPLEX 7050",$50.00,9/27/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158427 0011 42469,1,"COMPUTER, DELL, OPTIPLEX 7050",$50.00,9/27/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158427 0012 42469,1,"COMPUTER, DELL, OPTIPLEX 7050",$50.00,9/27/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158427 0013 42469,1,"COMPUTER, DELL, OPTIPLEX 7050",$50.00,9/27/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0047 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 1DDH7X2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0033 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 1DGG7X2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158512 0020 42491,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 2GKZDX2",$50.00,9/18/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158512 0023 42491,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 2GXYDX2",$50.00,9/18/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158512 0022 42491,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 2GYXDX2",$50.00,9/18/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158512 0018 42491,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 2GZ0FX2",$50.00,9/18/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158512 0019 42491,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 2H72FX2",$50.00,9/18/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0038 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 3594FW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0032 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 35B4FW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0023 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 35C0FW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0030 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 35C2FW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0053 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 35CZDW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0026 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 35D0FW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0051 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 35D4FW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0024 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 35FZDW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0039 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 35G1FW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0054 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 35H2FW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0046 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 35J1FW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0037 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 35K0FW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0044 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 35K2FW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0035 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 3CKZDW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0036 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 3CL3FW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0042 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 3CM1FW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0028 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 3CN4FW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0057 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 3CPYDW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0043 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 3CQ0FW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0041 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 3CQ2FW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0056 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 3CR1FW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0050 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 3CS2FW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0029 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 3CS3FW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0049 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 3CS4FW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0052 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 3XB5DV2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158512 0021 42491,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 3XZ5DV2",$50.00,9/18/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0040 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 6JJMDW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0045 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 77YBZV2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0031 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 789BZV2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0025 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, 78GDZV2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0027 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, FKG5FW2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0055 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, FKL37X2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0034 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, FKM27X2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0048 42510,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, FKN27X2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158512 0024 42491,1,"COMPUTER, DELL, OPTIPLEX 7060 SFF, DD81JV2",$50.00,9/18/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158264 0013 42414,1,"COMPUTER, DELL, OPTIPLEX 7060 SFF, GJCR7X2",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0018 42125,1,"COMPUTER, DELL, OPTIPLEX 7060 SFF, GJDL7X2",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0060 42362,1,"COMPUTER, DELL, OPTIPLEX 7060, 2GN2FX2",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0061 42362,1,"COMPUTER, DELL, OPTIPLEX 7060, 2GWZDX2",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0062 42362,1,"COMPUTER, DELL, OPTIPLEX 7060, 35C4FW2",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0065 42362,1,"COMPUTER, DELL, OPTIPLEX 7060, 3XM2DV2",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0063 42362,1,"COMPUTER, DELL, OPTIPLEX 7060, 3XN5DV2",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0058 42362,1,"COMPUTER, DELL, OPTIPLEX 7060, 3XS0DV2",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0056 42362,1,"COMPUTER, DELL, OPTIPLEX 7060, 3XY0DV2",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0054 42362,1,"COMPUTER, DELL, OPTIPLEX 7060, 3Y22DV2",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0055 42362,1,"COMPUTER, DELL, OPTIPLEX 7060, 735BZV2",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157851 0030 42245,1,"COMPUTER, DELL, OPTIPLEX 7060, 73HBZV2",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0059 42362,1,"COMPUTER, DELL, OPTIPLEX 7060, 78BFZV2",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0064 42362,1,"COMPUTER, DELL, OPTIPLEX 7060, 78NGZV2",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0057 42362,1,"COMPUTER, DELL, OPTIPLEX 7060, 9ZCPZV2",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0067 42362,1,"COMPUTER, DELL, OPTIPLEX 7060, DD62JV2",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0066 42362,1,"COMPUTER, DELL, OPTIPLEX 7060, J2Q5FW2",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158264 0015 42414,1,"COMPUTER, DELL, OPTIPLEX 7070 MFF, 4J1L333",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158512 0025 42491,1,"COMPUTER, DELL, OPTIPLEX 7070 MFF, 4XFL4Z2",$100.00,9/18/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158264 0018 42414,1,"COMPUTER, DELL, OPTIPLEX 7070 MFF, 7LK5BZ2",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158512 0029 42491,1,"COMPUTER, DELL, OPTIPLEX 7070 MFF, 7LK9BZ2",$100.00,9/18/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0058 42510,1,"COMPUTER, DELL, OPTIPLEX 7070 MFF, BPPJPY2",$100.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158512 0030 42491,1,"COMPUTER, DELL, OPTIPLEX 7070 MFF, BPSHPY2",$100.00,9/18/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0059 42510,1,"COMPUTER, DELL, OPTIPLEX 7070 MFF, BPW04Z2",$100.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158264 0014 42414,1,"COMPUTER, DELL, OPTIPLEX 7070 MFF, BPWMPY2",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158512 0028 42491,1,"COMPUTER, DELL, OPTIPLEX 7070 MFF, DNWLNY2",$100.00,9/18/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158512 0027 42491,1,"COMPUTER, DELL, OPTIPLEX 7070 MFF, F9X14Z2",$100.00,9/18/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158512 0026 42491,1,"COMPUTER, DELL, OPTIPLEX 7070 MFF, FT3CH03",$100.00,9/18/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0070 42362,1,"COMPUTER, DELL, OPTIPLEX 7070, 4VV3H13",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0072 42362,1,"COMPUTER, DELL, OPTIPLEX 7070, 7F04BZ2",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0069 42362,1,"COMPUTER, DELL, OPTIPLEX 7070, BPS04Z2",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0071 42362,1,"COMPUTER, DELL, OPTIPLEX 7070, BPW24Z2",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156696 0002 42310,1,"COMPUTER, DELL, PRECISION 5810, CK49FB2",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-157731 0002 42210,1,"COMPUTER, DELL, TOWER, HZW2KB2",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157731 0004 42210,1,"COMPUTER, DELL, TOWER, HZWWJB2",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156946 0054 42028,1,"COMPUTER, DESKTOP, GFJBC52",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156946 0026 42028,1,"COMPUTER, DESKTOP, GTROMN2",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158194 0001 42362,1,"COMPUTER, HP, 800G3 SFF, MXL8121Q51",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158194 0003 42362,1,"COMPUTER, HP, 800G3 SFF, MXL8121Q5F",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156479 0005 42056,1,"COMPUTER, HP, ELITEDESK",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157723 0064 42206,1,"COMPUTER, HP, ELITEDESK 800 G2 DM 35W, MXL62113S3",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157723 0063 42206,1,"COMPUTER, HP, ELITEDESK 800 G2 DM 35W, MXL62327KW",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156249 0015 41848,1,"COMPUTER, HP, ELITEDESK 800 G2 DM, 2UA633264T",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156249 0024 41848,1,"COMPUTER, HP, ELITEDESK 800 G2 DM, 2UA7042IKP",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156249 0075 41848,1,"COMPUTER, HP, ELITEDESK 800 G2 DM, MXL6141WFZ",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156249 0025 41848,1,"COMPUTER, HP, ELITEDESK 800 G2 DM, MXL7201BF4",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156249 0033 41848,1,"COMPUTER, HP, ELITEDESK 800 G2 MINI, 2UA63828ZR",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156249 0035 41848,1,"COMPUTER, HP, ELITEDESK 800 G2 MINI, 2UA64828G0",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156249 0036 41848,1,"COMPUTER, HP, ELITEDESK 800 G2 MINI, 2UA65213TF",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0068 42125,1,"COMPUTER, HP, ELITEDESK 800 G2 MINI, 2UA7101KGS",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0069 42125,1,"COMPUTER, HP, ELITEDESK 800 G2 MINI, 2UA71125MX",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156249 0031 41848,1,"COMPUTER, HP, ELITEDESK 800 G2 MINI, 8CG81416WZ",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156249 0032 41848,1,"COMPUTER, HP, ELITEDESK 800 G2 MINI, MXL6141WFL",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157723 0065 42206,1,"COMPUTER, HP, ELITEDESK 800 G2 MINI, MXL62327L0",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157235 0049 42096,1,"COMPUTER, HP, ELITEDESK 800 G2 MINI, MXL7163DBQ",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0072 42125,1,"COMPUTER, HP, ELITEDESK 800 G2 MINI, MXL72022ZT",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157235 0050 42096,1,"COMPUTER, HP, ELITEDESK 800 G2 SFF, MXL6071PFH",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0077 42125,1,"COMPUTER, HP, ELITEDESK 800 G2 SFF, MXL6252DQP",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157235 0053 42096,1,"COMPUTER, HP, ELITEDESK 800 G2 SFF, MXL6292X0F",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157235 0052 42096,1,"COMPUTER, HP, ELITEDESK 800 G2 SFF, MXL6292X0Q",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0076 42125,1,"COMPUTER, HP, ELITEDESK 800 G2 SFF, MXL6292X0R",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157235 0051 42096,1,"COMPUTER, HP, ELITEDESK 800 G2 SFF, MXL6292XOV",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0074 42125,1,"COMPUTER, HP, ELITEDESK 800 G2 SFF, MXL7150W8W",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0075 42125,1,"COMPUTER, HP, ELITEDESK 800 G2 SFF, MXL7150W9B",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0079 42125,1,"COMPUTER, HP, ELITEDESK 800 G2 SFF, MXL71627JM",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0080 42125,1,"COMPUTER, HP, ELITEDESK 800 G2 TWR, MXL6231SCZ",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158264 0042 42414,1,"COMPUTER, HP, ELITEDESK 800 G2 TWR, MXL7061S65",$80.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158066 0079 42332,1,"COMPUTER, HP, ELITEDESK 800 G2 TWR, MXL7122M89",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158512 0077 42491,1,"COMPUTER, HP, ELITEDESK 800 G3 DM 65W, 8CG7270319",$50.00,9/18/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158398 0042 42450,1,"COMPUTER, HP, ELITEDESK 800 G3 DM 65W, 8CG8021WZC",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158264 0048 42414,1,"COMPUTER, HP, ELITEDESK 800 G3 DM, 8CG7501LJK",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157851 0072 42245,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7261H42",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157851 0073 42245,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7261H4R",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0126 42362,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG72702WB",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157723 0069 42206,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG72702X4",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157601 0053 42156,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG72702XD",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157235 0059 42096,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7312BJY",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157235 0055 42096,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7312BKD",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157235 0057 42096,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7312BKF",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157851 0076 42245,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG73502QX",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158398 0055 42450,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG73502R4",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0085 42510,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG73502RS",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0085 42125,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7375VH7",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0120 42362,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7375VH8",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158398 0059 42450,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7375VHK",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158398 0053 42450,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG73854JJ",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157851 0070 42245,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG73854KT",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158066 0080 42332,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7402NPQ",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157601 0056 42156,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7402NPT",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157723 0067 42206,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7412HPT",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157851 0062 42245,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7412HPX",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157851 0065 42245,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7412HQ5",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0088 42510,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7412HQ6",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-157851 0064 42245,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7412HQN",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158264 0044 42414,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7412HR2",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157723 0070 42206,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7427QBW",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0125 42362,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7427QC5",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157723 0066 42206,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7427QCB",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0086 42125,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7440618",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158398 0057 42450,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG74910WX",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157235 0056 42096,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8021WW1",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0087 42510,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8021WW4",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0090 42125,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8021WWM",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157851 0071 42245,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8021WXB",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157851 0069 42245,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8044N6K",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157851 0067 42245,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8044N6M",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157851 0078 42245,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8044N6T",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0127 42362,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8083V0B",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158398 0056 42450,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8083WF9",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157851 0063 42245,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8083WFH",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0122 42362,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG81034R8",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0123 42362,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG81034RL",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157723 0068 42206,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8105HCP",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0119 42362,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8105HCZ",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157601 0061 42156,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8131VTH",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157601 0054 42156,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8131VTJ",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157723 0072 42206,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8131VTX",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158398 0060 42450,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8131VV2",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157601 0055 42156,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8131VVV",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156249 0027 41848,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG81416WZ",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157851 0066 42245,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG81529G8",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0084 42125,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG81529GS",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157601 0057 42156,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8165KGQ",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0090 42510,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8165KGT",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158512 0073 42491,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8165KGV",$50.00,9/18/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158264 0043 42414,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8165KHY",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157601 0060 42156,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8186C27",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157723 0071 42206,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8186C2Z",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0124 42362,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8200S2N",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157851 0074 42245,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8200S3Q",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158398 0058 42450,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8200S45",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157851 0077 42245,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8200S4L",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157601 0058 42156,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8200S57",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0088 42125,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8211WSM",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158512 0072 42491,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8211WTB",$50.00,9/18/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158066 0081 42332,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8238D9G",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157235 0060 42096,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8243F6C",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158512 0074 42491,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8243F6F",$50.00,9/18/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-157235 0058 42096,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8261QWW",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0128 42362,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8287XLL",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0086 42510,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8342WFG",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-157601 0062 42156,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8342WFJ",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0121 42362,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8342WFQ",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158398 0054 42450,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8342WFT",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158066 0082 42332,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8342WG9",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0081 42125,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG834961G",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0089 42510,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG834962B",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-157851 0068 42245,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG834962K",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158566 0084 42510,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8349639",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0091 42125,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG834963D",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0089 42125,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG834963H",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158066 0085 42332,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL7262LY4",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158398 0044 42450,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL7262LZ5",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158398 0045 42450,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL73019M7",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0101 42125,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL73019MF",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158398 0052 42450,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL73019MT",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158398 0049 42450,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL73019MY",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0102 42125,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL73019NP",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158398 0051 42450,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL73019NW",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158398 0046 42450,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL73019P7",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158398 0041 42450,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL73019P8",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158398 0047 42450,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL73019PB",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0098 42125,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL73019PH",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158398 0048 42450,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL73019PL",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158398 0050 42450,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL73019PP",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0100 42125,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL7311RZR",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158512 0075 42491,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL7312BD6",$50.00,9/18/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0092 42125,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL73723D5",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157851 0079 42245,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL73723DQ",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0096 42125,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL73723DR",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0094 42125,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL73723DX",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158066 0083 42332,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL74621X2",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158398 0043 42450,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL8121Q4X",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0133 42362,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL8121Q53",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158180 0134 42362,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL817159H",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157514 0099 42125,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL8201H17",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-158512 0076 42491,1,"COMPUTER, HP, ELITEDESK 800 G3 TWR, MXL8422B9Z",$50.00,9/18/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-158264 0047 42414,1,"COMPUTER, HP, ELITEDESK 800 G4 SFF, MXL9022XMV",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157316 0001 42217,1,"COMPUTER, HP, ELITEDESK 800G3, MXL74621WV",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156594 0006 42310,1,"COMPUTER, HP, MXL8201H1D",$50.00,9/22/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
-157311 0004 42111,1,"COMPUTER, HP, V9A74AA#ABA, CNV619Q7X",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157765 0006 42217,1,"COMPUTER, HP, Y2Z63AV, MXL8151CTN",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0056 41873,1,"COMPUTER, INTEL, NUC, B8AEED795622",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0043 41873,1,"COMPUTER, INTEL, NUC, B8AEED7A8ADB",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0124 41873,1,"COMPUTER, INTEL, NUC, B8AEED7ABE84",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0119 41873,1,"COMPUTER, INTEL, NUC, B8AEED7AE555",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0121 41873,1,"COMPUTER, INTEL, NUC, B8AEED7AEA87",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0122 41873,1,"COMPUTER, INTEL, NUC, B8AEED7AEE45",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0069 41873,1,"COMPUTER, INTEL, NUC, BTDN92003KZ",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0099 42290,1,"COMPUTER, INTEL, NUC, BTDN9200BYB",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0057 42290,1,"COMPUTER, INTEL, NUC, BTDN923004GX",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0083 42290,1,"COMPUTER, INTEL, NUC, BTDN92300ACV",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0053 42290,1,"COMPUTER, INTEL, NUC, BTDN92300AQM",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0064 42290,1,"COMPUTER, INTEL, NUC, BTDN92300ARV",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0112 42290,1,"COMPUTER, INTEL, NUC, BTDN92300AXW",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0059 42290,1,"COMPUTER, INTEL, NUC, BTDN92300B47",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0079 42290,1,"COMPUTER, INTEL, NUC, BTDN92300B64",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0097 42290,1,"COMPUTER, INTEL, NUC, BTDN92300B7A",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0089 42290,1,"COMPUTER, INTEL, NUC, BTDN92300BAM",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0067 42290,1,"COMPUTER, INTEL, NUC, BTDN92300BB7",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0085 42290,1,"COMPUTER, INTEL, NUC, BTDN92300BFM",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0113 42290,1,"COMPUTER, INTEL, NUC, BTDN92300BHK",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0066 42290,1,"COMPUTER, INTEL, NUC, BTDN92300BHL",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0072 42290,1,"COMPUTER, INTEL, NUC, BTDN92300BQX",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0093 42290,1,"COMPUTER, INTEL, NUC, BTDN92300C12",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0076 42290,1,"COMPUTER, INTEL, NUC, BTDN924002WJ",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0109 42290,1,"COMPUTER, INTEL, NUC, BTDN924002XV",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0103 42290,1,"COMPUTER, INTEL, NUC, BTDN924003G3",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0095 42290,1,"COMPUTER, INTEL, NUC, BTDN924003HH",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0061 42290,1,"COMPUTER, INTEL, NUC, BTDN924003HJ",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0081 42290,1,"COMPUTER, INTEL, NUC, BTDN9240045T",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0074 42290,1,"COMPUTER, INTEL, NUC, BTDN9240046Z",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0101 42290,1,"COMPUTER, INTEL, NUC, BTDN9240048B",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0055 42290,1,"COMPUTER, INTEL, NUC, BTDN924004A3",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0111 42290,1,"COMPUTER, INTEL, NUC, BTDN924004RF",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157560 0070 42290,1,"COMPUTER, INTEL, NUC, BTDN942003SK",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0042 41873,1,"COMPUTER, INTEL, NUC, F440306B16A1",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0040 41873,1,"COMPUTER, INTEL, NUC, F440306B25B3",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0108 41873,1,"COMPUTER, INTEL, NUC, F44D20620BCA",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0068 41873,1,"COMPUTER, INTEL, NUC, F44D30616E0A",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0064 41873,1,"COMPUTER, INTEL, NUC, F44D30616ED9",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0062 41873,1,"COMPUTER, INTEL, NUC, F44D30620889",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0063 41873,1,"COMPUTER, INTEL, NUC, F44D30620889",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0047 41873,1,"COMPUTER, INTEL, NUC, F44D30620A8C",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0066 41873,1,"COMPUTER, INTEL, NUC, F44D30620AAD",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0053 41873,1,"COMPUTER, INTEL, NUC, F44D30620B99",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0067 41873,1,"COMPUTER, INTEL, NUC, F44D30620BB8",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0061 41873,1,"COMPUTER, INTEL, NUC, F44D30620D7D",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0107 41873,1,"COMPUTER, INTEL, NUC, F44D30620DAC",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0065 41873,1,"COMPUTER, INTEL, NUC, F44D30620DDF",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0049 41873,1,"COMPUTER, INTEL, NUC, F44D30620E38",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0050 41873,1,"COMPUTER, INTEL, NUC, F44D30620E4A",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0071 41873,1,"COMPUTER, INTEL, NUC, F44D30620E7A",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0060 41873,1,"COMPUTER, INTEL, NUC, F44D30620E91",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0099 41873,1,"COMPUTER, INTEL, NUC, F44D30620FDC",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0105 41873,1,"COMPUTER, INTEL, NUC, F44D30621110",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0058 41873,1,"COMPUTER, INTEL, NUC, F44D3062112E",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0070 41873,1,"COMPUTER, INTEL, NUC, F44D3062116F",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0102 41873,1,"COMPUTER, INTEL, NUC, F44D306212FD",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0118 41873,1,"COMPUTER, INTEL, NUC, F44D30621391",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0048 41873,1,"COMPUTER, INTEL, NUC, F44D30621393",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0104 41873,1,"COMPUTER, INTEL, NUC, F44D3062141B",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0103 41873,1,"COMPUTER, INTEL, NUC, F44D3062143A",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0106 41873,1,"COMPUTER, INTEL, NUC, F44D306214DD",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0059 41873,1,"COMPUTER, INTEL, NUC, F44D306217BE",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0055 41873,1,"COMPUTER, INTEL, NUC, F44D306A4B93",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0041 41873,1,"COMPUTER, INTEL, NUC, F44D306B16B8",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0024 41873,1,"COMPUTER, INTEL, NUC, F44D306B1DAC",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0025 41873,1,"COMPUTER, INTEL, NUC, F44D306B2603",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0019 41873,1,"COMPUTER, INTEL, NUC, F44D306B277C",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156506 0120 41873,1,"COMPUTER, INTEL, NUC, G6YK42005QV",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157624 0014 41931,1,"COMPUTER, LENOVO, M900, MJ047DLF",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157624 0016 41931,1,"COMPUTER, LENOVO, M900, MJ04AA8",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157624 0020 41931,1,"COMPUTER, LENOVO, M900, MJ04AA8J",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157624 0015 41931,1,"COMPUTER, LENOVO, M900, MJ04AA8K",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157624 0019 41931,1,"COMPUTER, LENOVO, M900, MJ04AA8L",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157624 0017 41931,1,"COMPUTER, LENOVO, M900, MJ04AA8S",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157624 0023 41931,1,"COMPUTER, LENOVO, M900, MJ04AAHK",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157624 0022 41931,1,"COMPUTER, LENOVO, M900, MJ04D6KK",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157624 0004 41931,1,"COMPUTER, LENOVO, M910Q, SMJ05NFMB",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157624 0005 41931,1,"COMPUTER, LENOVO, M910Q, SMJ05NFMC",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157624 0007 41931,1,"COMPUTER, LENOVO, M910Q, SMJ05NFME",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157624 0008 41931,1,"COMPUTER, LENOVO, M910Q, SMJ05NFMF",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157624 0006 41931,1,"COMPUTER, LENOVO, M910Q, SMJ05NFMJ",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157624 0002 41931,1,"COMPUTER, LENOVO, M910Q, SMJ05NFMK",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157624 0003 41931,1,"COMPUTER, LENOVO, M910Q, SMJ05NFMQ",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157624 0011 41931,1,"COMPUTER, LENOVO, M910Q, SMJOSNFMA",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157624 0010 41931,1,"COMPUTER, LENOVO, M910Q, SMJOSNFMG",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157624 0012 41931,1,"COMPUTER, LENOVO, M910Q, SMJOSNFMP",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157624 0013 41931,1,"COMPUTER, LENOVO, M910Q, SMJOSNFMR",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157624 0001 41931,1,"COMPUTER, LENOVO, M920Q, MJ08RJ04",$150.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157744 0005 42240,1,"COMPUTER, LENOVO, THINKCENTRE,",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156946 0003 42028,1,"COMPUTER, OPTIPLEX, H32DXQ2",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156203 0010 41951,2,"COMPUTER, PC",$100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157311 0006 42111,1,"COMPUTER, SOM IT, PSYCH-GEN-010",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157311 0016 42111,1,"COMPUTER, SOM IT, PSYCH-GEN-030",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157049 0002 42056,1,"DESKTOP COMPUTER, HP",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157295 0013 42324,1,"DESKTOP COMPUTER, HP, ELITEDESK 800, 2UA6022423",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-156478 0001 42056,1,"TOWER, COMPUTER, HP, ELITEDESK, MXLG071PFS",$50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
-157351 0002 42242,2,LAPTOP,$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158474 0003 42481,1,"LAPTOP, ACER",$50.00,9/27/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157049 0004 42056,1,"LAPTOP, ACER, ASPIRE",$150.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157369 0011 42494,1,"LAPTOP, ACER, N20C5, 11304795934",$150.00,9/18/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157369 0003 42494,1,"LAPTOP, APPLE, MACBOOK PRO, C02QX247FVH7",$100.00,9/18/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-156459 0015 42310,1,"LAPTOP, ASUS, 58NXV03P318338",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-156459 0006 42310,1,"LAPTOP, ASUS, CN7W52",$50.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-156696 0008 42310,1,"LAPTOP, ASUS, P2540U, H8NXCV12K35434C",$50.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158566 0004 42510,1,"LAPTOP, ASUS, ZENBOOK UX533F, K4N0CV06074116C",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157181 0044 42229,1,"LAPTOP, DELL",$50.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157181 0070 42229,1,"LAPTOP, DELL",$50.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-156594 0005 42310,1,"LAPTOP, DELL, 23GGPV2",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0048 42378,1,"LAPTOP, DELL, 2QCKMT2",$150.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-156946 0049 42028,1,"LAPTOP, DELL, 467QRQ2",$150.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-156720 0001 42067,1,"LAPTOP, DELL, 5480, 50D2GH2",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157623 0044 41931,1,"LAPTOP, DELL, 7400, 282HN13",$150.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157623 0018 41931,1,"LAPTOP, DELL, 7400, 2T6PP13",$150.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157623 0045 41931,1,"LAPTOP, DELL, 7400, GNFYP13",$150.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-156720 0004 42067,1,"LAPTOP, DELL, 7470, 97ZHGC2",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-156720 0005 42067,1,"LAPTOP, DELL, 7480, 8T9ZZF2",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-156720 0007 42067,1,"LAPTOP, DELL, 7480, 90N3062",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157369 0001 42494,1,"LAPTOP, DELL, 8KPVYMZ",$50.00,9/18/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-154050 0004 42086,1,"LAPTOP, DELL, E7470, BQLTL72",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157632 0006 42310,1,"LAPTOP, DELL, ELITEBOOK 850, 5CG8200PK8",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157632 0007 42310,1,"LAPTOP, DELL, ELITEBOOK 850, 5CG82125DG",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157632 0003 42310,1,"LAPTOP, DELL, ELITEBOOK, 5CG7135BZY",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-156946 0046 42028,1,"LAPTOP, DELL, FTN73X2",$150.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0046 42378,1,"LAPTOP, DELL, LATITUDE 3400, 3QCKMT2",$50.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158287 0048 42193,1,"LAPTOP, DELL, LATITUDE 3590",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158267 0004 42412,1,"LAPTOP, DELL, LATITUDE 5400",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158566 0009 42510,1,"LAPTOP, DELL, LATITUDE 5400, 1C8K3Z2",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158566 0012 42510,1,"LAPTOP, DELL, LATITUDE 5400, 1JBQQ13",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158398 0085 42450,1,"LAPTOP, DELL, LATITUDE 5400, 3TNTL33",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157601 0018 42156,1,"LAPTOP, DELL, LATITUDE 5400, 511SL33",$150.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158566 0010 42510,1,"LAPTOP, DELL, LATITUDE 5400, 5F2PZY2",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158566 0013 42510,1,"LAPTOP, DELL, LATITUDE 5400, 6XKXL33",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158264 0009 42414,1,"LAPTOP, DELL, LATITUDE 5400, 753YZY2",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157514 0006 42125,1,"LAPTOP, DELL, LATITUDE 5400, 7MCDL33",$150.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158264 0010 42414,1,"LAPTOP, DELL, LATITUDE 5400, 838RL33",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158566 0014 42510,1,"LAPTOP, DELL, LATITUDE 5400, 8CW4ZY2",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158264 0008 42414,1,"LAPTOP, DELL, LATITUDE 5400, 8ZHK9Y2",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158566 0011 42510,1,"LAPTOP, DELL, LATITUDE 5400, 9LCSL33",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157514 0007 42125,1,"LAPTOP, DELL, LATITUDE 5400, 9P9VL33",$150.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158566 0008 42510,1,"LAPTOP, DELL, LATITUDE 5400, 9Q9TL33",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158398 0084 42450,1,"LAPTOP, DELL, LATITUDE 5400, C9789Y2",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158398 0086 42450,1,"LAPTOP, DELL, LATITUDE 5400, D87PQ13",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158512 0017 42491,1,"LAPTOP, DELL, LATITUDE 5400, DX4BL33",$100.00,9/18/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158566 0015 42510,1,"LAPTOP, DELL, LATITUDE 5410, 9YTT473",$200.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157156 0008 42093,1,"LAPTOP, DELL, LATITUDE 7290, 5QM7PV2",$150.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157723 0012 42206,1,"LAPTOP, DELL, LATITUDE 7490, 113H0X2",$150.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158566 0022 42510,1,"LAPTOP, DELL, LATITUDE 7490, 169J6Y2",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158566 0018 42510,1,"LAPTOP, DELL, LATITUDE 7490, 27MLXT2",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158566 0021 42510,1,"LAPTOP, DELL, LATITUDE 7490, 5BSLXT2",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158566 0020 42510,1,"LAPTOP, DELL, LATITUDE 7490, 8DFBPV2",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158566 0017 42510,1,"LAPTOP, DELL, LATITUDE 7490, D79J6Y2",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158566 0016 42510,1,"LAPTOP, DELL, LATITUDE 7490, G8FLXT2",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158566 0019 42510,1,"LAPTOP, DELL, LATITUDE 7490, HMHH0X2",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157280 0007 42310,1,"LAPTOP, DELL, OPTIPLEX 7070, 1QY6Z23",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-156696 0003 42310,1,"LAPTOP, DELL, OPTIPLEX 7070, 45KP9Z2",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157369 0006 42494,1,"LAPTOP, DELL, P75F, 36349903118",$50.00,9/18/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157369 0005 42494,1,"LAPTOP, DELL, P82J, BVZIVT2",$100.00,9/18/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158512 0034 42491,1,"LAPTOP, DELL, PRECISION 3541, 5ZW0633",$150.00,9/18/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158512 0031 42491,1,"LAPTOP, DELL, PRECISION 3541, 8WYY733",$150.00,9/18/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158512 0035 42491,1,"LAPTOP, DELL, PRECISION 3541, 9YSWXY2",$150.00,9/18/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158512 0036 42491,1,"LAPTOP, DELL, PRECISION 3541, C0WW3X2",$150.00,9/18/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158512 0032 42491,1,"LAPTOP, DELL, PRECISION 3541, CMBQ2Z2",$150.00,9/18/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158512 0033 42491,1,"LAPTOP, DELL, PRECISION 3541, H8BL9Y2",$150.00,9/18/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157632 0009 42310,1,"LAPTOP, HP, 840, 5CG8135BRT",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157514 0037 42125,1,"LAPTOP, HP, ELITEBOOK 840 G3, 5CG631251T",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157851 0040 42245,1,"LAPTOP, HP, ELITEBOOK 840 G3, 5CG6383HLZ",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158180 0089 42362,1,"LAPTOP, HP, ELITEBOOK 840 G3, 5CG6474B3P",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158180 0088 42362,1,"LAPTOP, HP, ELITEBOOK 840 G3, 5CG7090MMB",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158180 0087 42362,1,"LAPTOP, HP, ELITEBOOK 840 G3, 5CG71351KH",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158180 0090 42362,1,"LAPTOP, HP, ELITEBOOK 840 G3, 5CG7236397",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157235 0035 42096,1,"LAPTOP, HP, ELITEBOOK 840 G5, 5CG8523ZQ9",$150.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158512 0067 42491,1,"LAPTOP, HP, ELITEBOOK 850 G3, 5CG6282VZV",$100.00,9/18/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158512 0068 42491,1,"LAPTOP, HP, ELITEBOOK 850 G3, 5CG6445DN8",$100.00,9/18/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158512 0065 42491,1,"LAPTOP, HP, ELITEBOOK 850 G3, 5CG64538G8",$100.00,9/18/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158512 0069 42491,1,"LAPTOP, HP, ELITEBOOK 850 G3, 5CG64538GK",$100.00,9/18/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158512 0066 42491,1,"LAPTOP, HP, ELITEBOOK 850 G3, 5CG7163JCN",$100.00,9/18/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157601 0046 42156,1,"LAPTOP, HP, ELITEBOOK 850 G5, 5CG9132GBF",$150.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157280 0003 42310,1,"LAPTOP, HP, ELITEBOOK 850, 5CG8243C4H",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157632 0012 42310,1,"LAPTOP, HP, ELITEBOOK G4, 5CG78200PLK",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-156696 0004 42310,1,"LAPTOP, HP, ELITEBOOK G4, 5CG8200PMB",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-156459 0007 42310,1,"LAPTOP, HP, ELITEBOOK, 5CG7294QGV",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158147 0002 42310,1,"LAPTOP, HP, ELITEBOOK, 5CG73442X5",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-156459 0005 42310,1,"LAPTOP, HP, ELITEBOOK, 5CG82032LJ",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-156459 0008 42310,1,"LAPTOP, HP, ELITEBOOK, 5CG84812BL",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-156696 0005 42310,1,"LAPTOP, HP, ELITEBOOK, 5CG923349K",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0037 42378,1,"LAPTOP, LENOVO",$50.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158427 0002 42469,1,"LAPTOP, LENOVO",$150.00,9/27/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157369 0004 42494,1,"LAPTOP, LENOVO, 8IWE, PF24A39M",$100.00,9/18/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0030 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0V82X0",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0015 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0V82Y4",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0023 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0V82ZY",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0009 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0V83PC",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0018 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0V84M8",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0027 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0V84QA",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0032 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0V85QU",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0029 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0V85RE",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0008 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0V85RS",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0012 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0V85SG",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0031 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0V86YN",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0035 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0V86ZA",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0024 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0V870D",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0017 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0V8884",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0006 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0V888K",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0034 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0V889T",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0025 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0V88AC",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0028 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0V88AF",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0033 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0V8D2H",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0013 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0V8FTY",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0016 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0V8FU7",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0007 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0VB6Y7",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0005 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0VBD16",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158159 0026 42378,1,"LAPTOP, LENOVO, IDEAPAD 320-15IKB, PF0VFUWL",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157624 0037 41931,1,"LAPTOP, LENOVO, T460, PC0E7DJ7",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157624 0036 41931,1,"LAPTOP, LENOVO, T480, PF15WFXT",$150.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-158267 0002 42412,1,"LAPTOP, LENOVO, THINKPAD T480",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-157624 0040 41931,1,"LAPTOP, LENOVO, X260, PC0E0920",$100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-156459 0013 42310,1,"LAPTOP, TOSHIBA, PS595V, ZK276467H",$100.00,9/22/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
-156203 0011 41951,15,MONITOR,$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-156249 0079 41848,2,MONITOR,$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-156807 0026 41884,3,MONITOR,$50.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-156809 0023 42165,5,MONITOR,$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-156814 0104 41969,21,MONITOR,$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-156828 0037 42266,3,MONITOR,$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-157332 0001 42192,1,MONITOR,$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-157351 0003 42242,6,MONITOR,$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-158055 0022 42319,1,MONITOR,$50.00,9/21/2023,Monitor,Computer/IT/Telecommunication Equipment/Supply
-158474 0002 42481,1,MONITOR,$40.00,9/27/2023,Monitor,Computer/IT/Telecommunication Equipment/Supply
-156816 0011 42195,1,"MONITOR, 42""",$75.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-157955 0030 42274,1,"MONITOR, APPLE, THUNDERBOLT",$40.00,9/18/2023,Monitor,Computer/IT/Telecommunication Equipment/Supply
-158066 0008 42332,1,"MONITOR, ASUS, 24"" LED, B5LMQS017530",$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-155564 0039 41767,1,"MONITOR, DELL",$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-156594 0008 42310,1,"MONITOR, DELL",$40.00,9/22/2023,Monitor,Computer/IT/Telecommunication Equipment/Supply
-156506 0075 41873,1,"MONITOR, DELL, 0U828K-744445-06T-HE4S",$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-156988 0012 42040,1,"MONITOR, DELL, 2408WFPB, 74262-88T-26TS",$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-158189 0006 42383,1,"MONITOR, DELL, 2418, HWB9BB3",$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-154049 0011 42086,1,"MONITOR, ELE",$80.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-158264 0026 42414,1,"MONITOR, HP, 24 LED, CNK6210D4X",$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-157624 0044 41931,1,"MONITOR, LENOVO",$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-156506 0148 41873,1,"MONITOR, LG",$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-158398 0014 42450,1,"MONITOR, NEC, 24 LCD, S25104926NA",$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-158566 0107 42510,1,"MONITOR, NEC, 24 LED, S39132548NA",$40.00,9/22/2023,Monitor,Computer/IT/Telecommunication Equipment/Supply
-157851 0120 42245,1,"MONITOR, NEC, 24 LED, S41100894NA",$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-158066 0153 42332,1,"MONITOR, NEC, 24 LED, S42102922NA",$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-157624 0043 41931,1,"MONITOR, NEC, MULTISYNC",$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-157514 0123 42125,1,"MONITOR, NEC, S37126959NA, 24",$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-157120 0060 42069,1,"MONITOR, NEC, S42103387NA, 24",$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-156939 0132 42025,1,"MONITOR, NEC, S44106055NA, 24",$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-157575 0004 42147,70,"MONITOR, SAMSUNG, 24""",$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-155457 0014 42107,1,"MONITOR, SAMSUNG, HU241TUMSB0046X",$40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
-157955 0002 42274,1,"MONITOR, X6",$60.00,9/18/2023,Monitor,Computer/IT/Telecommunication Equipment/Supply
-157155 0025 41920,1,"PLOTTER, HP, P660A, 5G81P5200K",$200.00,null,Printer/Plotter/Scanner/Fax,Computer/IT/Telecommunication Equipment/Supply
-157127 0012 42078,7,"STAGE LIGHT, 6"" 1K EDGE FRESNAL, CAT 6010A",$50.00,null,Lighting,Electrical Equipment/Supply
-157140 0039 42078,1,"STAGE LIGHT, 6"" FRESNELITE STRAND, CAT 12091, Q448/2-",$50.00,null,Lighting,Electrical Equipment/Supply
-157140 0037 42078,1,"STAGE LIGHT, 6"" FRESNELITE STRAND, CAT 12091, Q548/2-",$50.00,null,Lighting,Electrical Equipment/Supply
-157140 0041 42078,1,"STAGE LIGHT, 6"" FRESNELITE STRAND, CAT 12091, Q548/2-",$50.00,null,Lighting,Electrical Equipment/Supply
-157140 0040 42078,1,"STAGE LIGHT, 6"" FRESNELITE STRAND, CAT 12091, Q548/8-",$50.00,null,Lighting,Electrical Equipment/Supply
-157140 0038 42078,1,"STAGE LIGHT, 6"" FRESNELITE STRAND, CAT 12091, Q558/8-",$50.00,null,Lighting,Electrical Equipment/Supply
-157139 0018 42078,1,"STAGE LIGHT, AMERICAN DJ LIGHT, P64LED, 2160099",$50.00,null,Lighting,Electrical Equipment/Supply
-157139 0026 42078,1,"STAGE LIGHT, CASTOR 2 K, 270, 0594",$50.00,null,Lighting,Electrical Equipment/Supply
-157139 0024 42078,1,"STAGE LIGHT, CASTOR 2 K, 270, 0608",$50.00,null,Lighting,Electrical Equipment/Supply
-157231 0005 42091,1,"STAGE LIGHT, CASTOR CAT 35002, 270, 2629",$50.00,null,Lighting,Electrical Equipment/Supply
-157231 0006 42091,1,"STAGE LIGHT, CASTOR CAT 35002, 270, 2639",$50.00,null,Lighting,Electrical Equipment/Supply
-157231 0004 42091,1,"STAGE LIGHT, CASTOR CAT 35002, 270, 2678",$50.00,null,Lighting,Electrical Equipment/Supply
-157231 0002 42091,1,"STAGE LIGHT, CASTOR CAT 3501TV, 270, 0457",$50.00,null,Lighting,Electrical Equipment/Supply
-157231 0003 42091,1,"STAGE LIGHT, CASTOR CAT 3501TV, 270, 0605",$50.00,null,Lighting,Electrical Equipment/Supply
-157231 0001 42091,1,"STAGE LIGHT, CASTOR CAT 3501TV, 270, 0613",$50.00,null,Lighting,Electrical Equipment/Supply
-157231 0007 42091,4,"STAGE LIGHT, COLOTRAN FAR CYC, 108-300/400",$50.00,null,Lighting,Electrical Equipment/Supply
-157231 0013 42091,1,"STAGE LIGHT, COURBEVOIE 1K, 1844",$50.00,null,Lighting,Electrical Equipment/Supply
-157231 0009 42091,1,"STAGE LIGHT, DESISTI STUDIO, 447 07",$50.00,null,Lighting,Electrical Equipment/Supply
-157231 0008 42091,1,"STAGE LIGHT, DESISTI STUDIO, 448 07",$50.00,null,Lighting,Electrical Equipment/Supply
-157127 0001 42078,10,"STAGE LIGHT, LEE COLORTRAN 1 K FRESNEL, 100-515",$50.00,null,Lighting,Electrical Equipment/Supply
-157139 0019 42078,1,"STAGE LIGHT, LEE COLORTRAN 2K, 100-525",$50.00,null,Lighting,Electrical Equipment/Supply
-157139 0020 42078,1,"STAGE LIGHT, LEE COLORTRAN 2K, 5373, 306",$50.00,null,Lighting,Electrical Equipment/Supply
-157139 0023 42078,3,"STAGE LIGHT, LEE COLORTRAN ZOOM ELIPSO, 213-165",$100.00,null,Lighting,Electrical Equipment/Supply
-157127 0004 42078,1,"STAGE LIGHT, POLARIS, 260, CAT 33501, 4423",$50.00,null,Lighting,Electrical Equipment/Supply
-157127 0003 42078,1,"STAGE LIGHT, POLARIS, 260, CAT 33502, 4368",$50.00,null,Lighting,Electrical Equipment/Supply
-157127 0006 42078,1,"STAGE LIGHT, POLARIS, 260, CAT 33502, 4377",$50.00,null,Lighting,Electrical Equipment/Supply
-157127 0008 42078,1,"STAGE LIGHT, POLARIS, 260, CAT 33502, 4383",$50.00,null,Lighting,Electrical Equipment/Supply
-157127 0010 42078,1,"STAGE LIGHT, POLARIS, 260, CAT 33502, 4485",$50.00,null,Lighting,Electrical Equipment/Supply
-157127 0007 42078,1,"STAGE LIGHT, POLARIS, 260, CAT 33502, 4511",$50.00,null,Lighting,Electrical Equipment/Supply
-157127 0005 42078,1,"STAGE LIGHT, POLARIS, 260, CAT 33502, 4517",$50.00,null,Lighting,Electrical Equipment/Supply
-157127 0009 42078,1,"STAGE LIGHT, POLARIS, 260, CAT 33502, 4529",$50.00,null,Lighting,Electrical Equipment/Supply
-157127 0011 42078,1,"STAGE LIGHT, POLARIS, 260, CAT 33502, 4544",$50.00,null,Lighting,Electrical Equipment/Supply
-157140 0036 42078,1,"STAGE LIGHT, POLARIS, CAT 33502, 260, 4382",$50.00,null,Lighting,Electrical Equipment/Supply
-157140 0035 42078,1,"STAGE LIGHT, POLARIS, CAT 33502, 260, 4395",$50.00,null,Lighting,Electrical Equipment/Supply
-157140 0032 42078,1,"STAGE LIGHT, POLARIS, CAT 33502, 260, 4501",$50.00,null,Lighting,Electrical Equipment/Supply
-157140 0031 42078,1,"STAGE LIGHT, POLARIS, CAT 33502, 260, 4513",$50.00,null,Lighting,Electrical Equipment/Supply
-157140 0034 42078,1,"STAGE LIGHT, POLARIS, CAT 33502, 260, 4530",$50.00,null,Lighting,Electrical Equipment/Supply
-157140 0033 42078,1,"STAGE LIGHT, POLARIS, CAT 33502, 260, 4560",$50.00,null,Lighting,Electrical Equipment/Supply
-157127 0002 42078,6,"STAGE LIGHT, Q-LIGHT, GREEN",$50.00,null,Lighting,Electrical Equipment/Supply
-158073 0059 42431,1,"POWER SUPPLY, ZEISS EYE SCOPE, 154866",$50.00,null,Power Supply/Transformer,Electrical Equipment/Supply
-158044 0001 42528,1,"ICE MACHINE, SCOTSMAN, CME1202AE-32A, 985642-07N",$200.00,9/26/2023,Food Service and Kitchen Equipment/Supply,Food Service and Kitchen Equipment/Supply
-157155 0016 41920,1,"OVEN, FOOD, LIGHT GRAY",$50.00,null,Food Service and Kitchen Equipment/Supply,Food Service and Kitchen Equipment/Supply
-155108 0013 41918,1,WARMING CABINET,$50.00,null,Food Service and Kitchen Equipment/Supply,Food Service and Kitchen Equipment/Supply
-157378 0003 42535,1,"BUCKET, SORVAL, SLA-1500",$50.00,9/27/2023,Janitorial/Laundry/Cleaning,Janitorial/Laundry/Cleaning
-158663 0001 42542,1,"VACUUM, 30"" WIDE",$75.00,9/28/2023,Janitorial/Laundry/Cleaning,Janitorial/Laundry/Cleaning
-156818 0001 42203,1,"VACUUM, ADVANCE, LARGE FORMAT",$150.00,null,Janitorial/Laundry/Cleaning,Janitorial/Laundry/Cleaning
-158319 0001 42428,1,"VACUUM, HOOVER FLOOR, E4S3933",$50.00,null,Janitorial/Laundry/Cleaning,Janitorial/Laundry/Cleaning
-157549 0010 42138,1,SCALE,$100.00,null,Balance/Scale,Laboratory/Scientific/Medical Equipment/Supply
-157739 0012 42212,1,SCALE,$40.00,null,Balance/Scale,Laboratory/Scientific/Medical Equipment/Supply
-158073 0049 42431,1,"CELL COUNTER, DISTRIBUTOR",$40.00,null,Biomedical/Clinical,Laboratory/Scientific/Medical Equipment/Supply
-158073 0022 42431,1,"CRYOSTAT, LEICA CM 1900, 0452227382",$200.00,null,Biomedical/Clinical,Laboratory/Scientific/Medical Equipment/Supply
-158073 0058 42431,1,"EYE SCOPE, ZEISS, 165524",$200.00,null,Biomedical/Clinical,Laboratory/Scientific/Medical Equipment/Supply
-158073 0074 42431,1,"PCR SYSTEM, EXPRESS HYBAID, HBPX11013327",$40.00,null,Biomedical/Clinical,Laboratory/Scientific/Medical Equipment/Supply
-158073 0036 42431,1,"PCR SYSTEM, HYBAID, PCR EXPRESS, 15324",$40.00,null,Biomedical/Clinical,Laboratory/Scientific/Medical Equipment/Supply
-155766 0010 41696,1,"PCR SYSTEM, MJ RESEARCH, OPTICON, OP000220",$50.00,null,Biomedical/Clinical,Laboratory/Scientific/Medical Equipment/Supply
-158073 0064 42431,1,"PCR SYSTEM, THERMO, PX2, PX210360",$40.00,null,Biomedical/Clinical,Laboratory/Scientific/Medical Equipment/Supply
-158073 0041 42431,1,"PROTEIN INTERACTION ARRAY SYS, ETTAN SPOT PICKER",$50.00,null,Biomedical/Clinical,Laboratory/Scientific/Medical Equipment/Supply
-158073 0035 42431,1,"THERMOCYCLER, PCR EPPENDORF, EPGRADIENT, 025619",$40.00,null,Biotechnology,Laboratory/Scientific/Medical Equipment/Supply
-156649 0004 41953,1,SHAKER,$100.00,null,Burner/Mixer/Shaker/Stirrer,Laboratory/Scientific/Medical Equipment/Supply
-157750 0053 42333,1,"CENTRIFUGE, EPPENDORF",$100.00,9/26/2023,Centrifuge,Laboratory/Scientific/Medical Equipment/Supply
-156727 0001 41975,1,"CENTRIFUGE, JOUAN, BR4I, 400030081",$300.00,null,Centrifuge,Laboratory/Scientific/Medical Equipment/Supply
-157959 0008 42273,1,"CENTRIFUGE, SORVALL, BIOFUGE FRESCO",$40.00,null,Centrifuge,Laboratory/Scientific/Medical Equipment/Supply
-157378 0001 42535,1,"CENTRIFUGE, THERMO, CENTRA PLUS",$50.00,9/27/2023,Centrifuge,Laboratory/Scientific/Medical Equipment/Supply
-157378 0004 42535,1,"ROTOR, SORVAL, SA-600",$50.00,9/27/2023,Centrifuge,Laboratory/Scientific/Medical Equipment/Supply
-158073 0032 42431,1,"SPEED VAC SYSTEM, THERMO SCIENTIFIC, ISS110",$75.00,null,Centrifuge,Laboratory/Scientific/Medical Equipment/Supply
-158073 0116 42431,1,"ANALYZER, FIELD",$200.00,null,Electronic/Test Equipment,Laboratory/Scientific/Medical Equipment/Supply
-157750 0015 42333,1,"PARTICLE COUNTER, BECKER COULTER, 390842, 07100",$50.00,9/26/2023,Electronic/Test Equipment,Laboratory/Scientific/Medical Equipment/Supply
-155835 0016 42133,1,DEWAR,$150.00,null,Freezer/Refrigerator,Laboratory/Scientific/Medical Equipment/Supply
-155835 0017 42133,1,DEWAR,$150.00,null,Freezer/Refrigerator,Laboratory/Scientific/Medical Equipment/Supply
-156569 0001 41929,1,"LIQUID SCINTILLATION COUNTER, PERKIN, TRI CARB,",$100.00,null,Laboratory Scientific Equipment/Supply,Laboratory/Scientific/Medical Equipment/Supply
-154380 0012 41723,1,"SCIENCE EQUIPMENT, TYPHOON TRIO, PHOSPHEIMAGER",$200.00,null,Laboratory Scientific Equipment/Supply,Laboratory/Scientific/Medical Equipment/Supply
-157831 0001 42321,1,"EXAM BED, RITTER, 104, 4C469",$100.00,null,Medical,Laboratory/Scientific/Medical Equipment/Supply
-157185 0002 42081,1,EXAM LIGHT,$50.00,null,Medical,Laboratory/Scientific/Medical Equipment/Supply
-158243 0001 42219,1,"LIGHT, SURGERY, PORTABLE",$75.00,null,Medical,Laboratory/Scientific/Medical Equipment/Supply
-157809 0002 42234,1,"TABLE, LIFT",$50.00,null,Medical,Laboratory/Scientific/Medical Equipment/Supply
-151736 0001 42333,1,"TOPOGRAPHY SYSTEM, ATLAS, 991, 991-2272",$200.00,9/27/2023,Medical,Laboratory/Scientific/Medical Equipment/Supply
-157549 0045 42138,1,MICROSCOPE,$100.00,null,Microscope,Laboratory/Scientific/Medical Equipment/Supply
-158073 0108 42431,1,MICROSCOPE,$100.00,null,Microscope,Laboratory/Scientific/Medical Equipment/Supply
-158073 0112 42431,1,MICROSCOPE,$75.00,null,Microscope,Laboratory/Scientific/Medical Equipment/Supply
-158073 0119 42431,1,MICROSCOPE,$200.00,null,Microscope,Laboratory/Scientific/Medical Equipment/Supply
-157935 0007 42333,1,"MICROSCOPE, 120020",$250.00,9/27/2023,Microscope,Laboratory/Scientific/Medical Equipment/Supply
-157935 0013 42333,1,"MICROSCOPE, D01957",$50.00,9/27/2023,Microscope,Laboratory/Scientific/Medical Equipment/Supply
-156952 0012 42047,1,"MICROSCOPE, NA, NA",$500.00,null,Microscope,Laboratory/Scientific/Medical Equipment/Supply
-157959 0006 42273,1,"MICROSCOPE, VANGUARD",$250.00,null,Microscope,Laboratory/Scientific/Medical Equipment/Supply
-157750 0001 42333,1,"INCUBATOR, BIOSPHERIC",$50.00,9/26/2023,Oven/Chamber/Incubator/Furnace,Laboratory/Scientific/Medical Equipment/Supply
-157750 0002 42333,1,"INCUBATOR, DR WATER, JACKETET C02",$250.00,9/26/2023,Oven/Chamber/Incubator/Furnace,Laboratory/Scientific/Medical Equipment/Supply
-158073 0021 42431,1,"INCUBATOR, FORMA SCIENTIFIC",$150.00,null,Oven/Chamber/Incubator/Furnace,Laboratory/Scientific/Medical Equipment/Supply
-157812 0001 42235,1,"INCUBATOR, FORMA SCIENTIFIC, 3852, 38371-358",$150.00,null,Oven/Chamber/Incubator/Furnace,Laboratory/Scientific/Medical Equipment/Supply
-157750 0027 42333,1,"INCUBATOR, ISOTEMP",$50.00,9/26/2023,Oven/Chamber/Incubator/Furnace,Laboratory/Scientific/Medical Equipment/Supply
-158073 0082 42431,1,"OVEN, HYBRIDIZATION, BELLCO, BMH0954",$40.00,null,Oven/Chamber/Incubator/Furnace,Laboratory/Scientific/Medical Equipment/Supply
-157750 0025 42333,1,"OVEN, SCIENTIFIC, FISHER SCIENTIFIC",$50.00,9/26/2023,Oven/Chamber/Incubator/Furnace,Laboratory/Scientific/Medical Equipment/Supply
-158478 0001 42549,1,"TABLE SAW, DELTA SHOPMASTER 120 V, TS350 3600 RPM,",$150.00,9/29/2023,Machinery,Machinery/Industrial
-157549 0016 42138,1,DESKTOP RISER,$40.00,null,"Accessories, Small",Office/School/Furniture Equipment/Supply
-156593 0006 41936,1,BOOKSHELF,$50.00,null,Cabinet/Shelf,Office/School/Furniture Equipment/Supply
-156910 0013 42015,1,CABINET,$40.00,null,Cabinet/Shelf,Office/School/Furniture Equipment/Supply
-158055 0013 42319,2,CABINET,$40.00,9/21/2023,Cabinet/Shelf,Office/School/Furniture Equipment/Supply
-158669 0001 42549,1,"CABINET, METAL",$100.00,9/29/2023,Cabinet/Shelf,Office/School/Furniture Equipment/Supply
-158669 0002 42549,1,"CABINET, METAL",$100.00,9/29/2023,Cabinet/Shelf,Office/School/Furniture Equipment/Supply
-158631 0001 42549,1,"CABINET, METAL, QUARANTINE",$100.00,9/29/2023,Cabinet/Shelf,Office/School/Furniture Equipment/Supply
-155966 0013 41756,1,"CABINET, ONE DOOR",$40.00,null,Cabinet/Shelf,Office/School/Furniture Equipment/Supply
-156844 0016 42321,1,"CHAIR, OFFICE",$50.00,null,Chair/Couch/Stool,Office/School/Furniture Equipment/Supply
-157878 0003 42251,1,"CHAIR, OFFICE, GRAY",$50.00,null,Chair/Couch/Stool,Office/School/Furniture Equipment/Supply
-157666 0015 42144,5,"CHAIR, WOOD, LEATHER",$50.00,null,Chair/Couch/Stool,Office/School/Furniture Equipment/Supply
-157666 0001 42144,1,CREDENZA,$40.00,null,Desk,Office/School/Furniture Equipment/Supply
-158639 0001 42536,1,CREDENZA,$40.00,9/27/2023,Desk,Office/School/Furniture Equipment/Supply
-157666 0013 42144,1,"CREDENZA, G178, CHERRY",$40.00,null,Desk,Office/School/Furniture Equipment/Supply
-156040 0001 41780,1,"CREDENZA, WOOD, 95""W X 18""D",$75.00,null,Desk,Office/School/Furniture Equipment/Supply
-156955 0013 42123,1,DESK,$50.00,null,Desk,Office/School/Furniture Equipment/Supply
-157354 0002 42432,2,DESK,$50.00,null,Desk,Office/School/Furniture Equipment/Supply
-157372 0005 42502,1,DESK,$40.00,9/20/2023,Desk,Office/School/Furniture Equipment/Supply
-157750 0050 42333,1,DESK,$50.00,9/26/2023,Desk,Office/School/Furniture Equipment/Supply
-157666 0011 42144,1,"DESK, G178, CHERRY",$40.00,null,Desk,Office/School/Furniture Equipment/Supply
-156840 0039 42300,1,"DESK, VARIDESK",$40.00,null,Desk,Office/School/Furniture Equipment/Supply
-156816 0004 42195,1,"DESK, WOOD",$50.00,null,Desk,Office/School/Furniture Equipment/Supply
-157182 0001 42149,1,"DESK, WOOD, BLACK",$50.00,null,Desk,Office/School/Furniture Equipment/Supply
-156221 0008 41867,1,STANDING DESK CONVERTER,$40.00,null,Desk,Office/School/Furniture Equipment/Supply
-156847 0011 42337,1,STANDING DESK CONVERTER,$40.00,null,Desk,Office/School/Furniture Equipment/Supply
-157508 0004 42121,1,"STANDING DESK CONVERTER, VARIDESK",$40.00,null,Desk,Office/School/Furniture Equipment/Supply
-156809 0016 42165,1,"STANDING DESK CONVERTER, VARI-DESK",$40.00,null,Desk,Office/School/Furniture Equipment/Supply
-156193 0004 41834,1,FILE CABINET,$40.00,null,File Cabinet,Office/School/Furniture Equipment/Supply
-156204 0003 41834,2,FILE CABINET,$50.00,null,File Cabinet,Office/School/Furniture Equipment/Supply
-156227 0003 41839,1,FILE CABINET,$40.00,null,File Cabinet,Office/School/Furniture Equipment/Supply
-156824 0001 42232,2,FILE CABINET,$40.00,null,File Cabinet,Office/School/Furniture Equipment/Supply
-157349 0001 42202,6,FILE CABINET,$40.00,null,File Cabinet,Office/School/Furniture Equipment/Supply
-157517 0001 42127,1,FILE CABINET,$40.00,null,File Cabinet,Office/School/Furniture Equipment/Supply
-157745 0003 42214,1,FILE CABINET,$40.00,null,File Cabinet,Office/School/Furniture Equipment/Supply
-156332 0001 41872,1,"FILE CABINET, 4 DRAWER",$40.00,null,File Cabinet,Office/School/Furniture Equipment/Supply
-157190 0025 42082,1,"FILE CABINET, 4 DRAWER",$40.00,null,File Cabinet,Office/School/Furniture Equipment/Supply
-157368 0007 42458,1,"FILE CABINET, 4 DRAWER",$40.00,9/18/2023,File Cabinet,Office/School/Furniture Equipment/Supply
-157984 0001 42286,1,"FILE CABINET, 5 DRAWER, HON COMPANY, 42"" W",$50.00,null,File Cabinet,Office/School/Furniture Equipment/Supply
-156644 0001 41952,1,"TABLE, CONFERENCE, WOOD",$50.00,null,Table/Stand,Office/School/Furniture Equipment/Supply
-158073 0004 42431,1,"TABLE, FLOATING, TMC 63541, 931800",$200.00,null,Table/Stand,Office/School/Furniture Equipment/Supply
-156809 0041 42165,1,"TABLE, LIFT",$40.00,null,Table/Stand,Office/School/Furniture Equipment/Supply
-158453 0005 42477,1,"WATER SYSTEM, WATER PUMP",$80.00,null,Plumbing Equipment/Supply,Plumbing Equipment/Supply
-156840 0048 42300,1,FLAMMABLE CABINET,$150.00,null,Safety Equipment,Safety Equipment
-157983 0001 42285,1,FLAMMABLE CABINET,$150.00,null,Safety Equipment,Safety Equipment
+156495 0001 41904,1,"MUSIC, SHEET, 27 BOXES OF BOOKS, SCORES, LPS",50.00,null,Music and Accessories,Art and Performing Arts Equipment/Supply
+159342 0013 42800,1,"METER, NOISE, OMEGA",50.00,12/15/2023,Audio,Audio Visual
+158558 0200 42519,1,"MICROPHONE, SHURE, MX690, 2KG0500218",50.00,null,Audio,Audio Visual
+158558 0201 42519,1,"MICROPHONE, SHURE, MX690, 2KGO500224",50.00,null,Audio,Audio Visual
+156533 0008 41925,1,"CAMERA, HIGH TEMPERATURE",50.00,null,Photography/Camera,Audio Visual
+158570 0033 42513,1,"ENLARGER, BESELER",100.00,null,Photography/Camera,Audio Visual
+158825 0047 42398,1,"PROJECTOR, BENQ, DLP, SP920P, PDB7B02505000",100.00,null,Projector/Screen,Audio Visual
+159282 0011 42753,1,"PROJECTOR, EPSON, PL PRO C6550WU, T89F440123L",100.00,12/4/2023,Projector/Screen,Audio Visual
+158287 0024 42193,1,"PROJECTOR, OPTIMA",100.00,null,Projector/Screen,Audio Visual
+159479 0023 42835,1,"PROJECTOR, PROJECTIONDESIGN, F3XST, 06100104",100.00,null,Projector/Screen,Audio Visual
+159479 0022 42835,1,"PROJECTOR, PROJECTIONDESIGN, F3XST, 06100105",100.00,null,Projector/Screen,Audio Visual
+159479 0025 42835,1,"PROJECTOR, PROJECTIONDESIGN, F3XST, 06100106",100.00,null,Projector/Screen,Audio Visual
+159479 0024 42835,1,"PROJECTOR, PROJECTIONDESIGN, F3XST, 06100107",100.00,null,Projector/Screen,Audio Visual
+159091 0005 42706,1,"TELEVISION, RCA",50.00,null,Television,Audio Visual
+159091 0006 42699,1,"TELEVISION, RCA, J42HE841, D0154190069, 42""",50.00,null,Television,Audio Visual
+159091 0002 42699,1,"TELEVISION, RCA, J42HE841, D0154190184, 42""",50.00,null,Television,Audio Visual
+159091 0003 42699,1,"TELEVISION, RCA, J42HE841, D0154190197, 42""",50.00,null,Television,Audio Visual
+159091 0005 42699,1,"TELEVISION, RCA, J42HE841, D0154190198, 42""",50.00,null,Television,Audio Visual
+159091 0004 42706,1,"TELEVISION, RCA, J42HE846, D0154190420",50.00,null,Television,Audio Visual
+157379 0019 42333,1,"TELEVISION, SAMSUNG, LH52BPQLBC/ZA,",50.00,null,Television,Audio Visual
+157379 0008 42333,1,"TELEVISION, SHARP, PN-E601, 0C006578",75.00,null,Television,Audio Visual
+159699 0014 42815,1,COMPUTER,50.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+158836 0034 42720,1,"COMPUTER, APPLE, IMAC, C02TF0TGH7JY",100.00,12/4/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+158836 0020 42720,1,"COMPUTER, APPLE, IMAC, C02V90KDJ1G9",100.00,12/4/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+158836 0079 42720,1,"COMPUTER, APPLE, IMAC, C02VK0YTJ1GJ",100.00,12/4/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+158836 0067 42720,1,"COMPUTER, APPLE, IMAC, C02VP0Z8J1G9",100.00,12/4/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+158836 0123 42720,1,"COMPUTER, APPLE, IMAC, C02WG0DPJ1GC",100.00,12/4/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+158836 0018 42720,1,"COMPUTER, APPLE, IMAC, C02WH0R7J1G9",100.00,12/4/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+158836 0068 42720,1,"COMPUTER, APPLE, IMAC, C02X402LJ1G9",100.00,12/4/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+158836 0078 42720,1,"COMPUTER, APPLE, IMAC, C02X79VXJ1GG",100.00,12/4/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159512 0006 42846,1,"COMPUTER, DELL, OPTIPLEX 3050, D7VY9L2",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158535 0013 42499,1,"COMPUTER, DELL, OPTIPLEX 3060, 9V10H13",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158535 0014 42499,1,"COMPUTER, DELL, OPTIPLEX 3060, H1WKS13",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158836 0131 42720,1,"COMPUTER, DELL, OPTIPLEX 3060, HZMNNY2",50.00,12/4/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159386 0028 42563,1,"COMPUTER, DELL, OPTIPLEX 5050 MFF, 9YB7MN2",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159386 0025 42563,1,"COMPUTER, DELL, OPTIPLEX 5050 MFF, FDX88R2",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159386 0026 42563,1,"COMPUTER, DELL, OPTIPLEX 5050 MFF, FF2C8R2",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159386 0027 42563,1,"COMPUTER, DELL, OPTIPLEX 5050 MFF, FF688R2",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158836 0135 42720,1,"COMPUTER, DELL, OPTIPLEX 7040, F946DH2",100.00,12/4/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+158836 0011 42720,1,"COMPUTER, DELL, OPTIPLEX 7050, 134X7N2",50.00,12/4/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+157596 0002 42444,1,"COMPUTER, DELL, OPTIPLEX 7050, 7R7BXM2",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+157596 0004 42444,1,"COMPUTER, DELL, OPTIPLEX 7050, 7R87XM2",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159313 0017 42789,1,"COMPUTER, DELL, OPTIPLEX 7060 MFF, HH3L333",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159512 0060 42846,1,"COMPUTER, DELL, OPTIPLEX 7070 MFF WIRELESS,",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159512 0058 42846,1,"COMPUTER, DELL, OPTIPLEX 7070 MFF, 4X8N4Z2",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159512 0059 42846,1,"COMPUTER, DELL, OPTIPLEX 7070 MFF, 4Y14H13",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159220 0023 42742,1,"COMPUTER, DELL, OPTIPLEX 7070 MFF, 6CW64Y2",200.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159220 0022 42742,1,"COMPUTER, DELL, OPTIPLEX 7070 MFF, 6DB34Y2",200.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159390 0028 42809,1,"COMPUTER, DELL, OPTIPLEX 7070 MFF, 7F08BZ2",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159390 0031 42809,1,"COMPUTER, DELL, OPTIPLEX 7070 MFF, 7F35BZ2",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159390 0027 42809,1,"COMPUTER, DELL, OPTIPLEX 7070 MFF, BPXKPY2",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159220 0026 42742,1,"COMPUTER, DELL, OPTIPLEX 7070 MFF, DMGNNY2",200.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159220 0025 42742,1,"COMPUTER, DELL, OPTIPLEX 7070 MFF, DP8NNY2",200.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159629 0037 42883,1,"COMPUTER, DELL, OPTIPLEX 7070 MFF, FT49H03",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158317 0005 42683,1,"COMPUTER, DELL, OPTIPLEX, DYDJQD2",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0089 42737,1,"COMPUTER, DELL, PRECISION TOWER 3420, JK8SHH2",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+158312 0003 42683,1,"COMPUTER, HP",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0061 42737,1,"COMPUTER, HP, ELITEDESK 705 G4 MINI, MXL9172R2B",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0042 42737,1,"COMPUTER, HP, ELITEDESK 705 G4 MINI, MXL9172S0J",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159512 0112 42846,1,"COMPUTER, HP, ELITEDESK 800 G3 DM 65W, 8CG8021WXN",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158904 0078 42615,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG72702XK",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159220 0067 42742,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG72702Y7",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159512 0105 42846,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG72702ZR",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159512 0106 42846,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG727031G",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159512 0104 42846,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7270321",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159390 0080 42809,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7270324",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158904 0073 42615,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7270XQ",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0148 42737,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7300PSF",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159220 0064 42742,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG73502R6",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159629 0080 42883,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7357QNH",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158904 0079 42615,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG73854JZ",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159390 0077 42809,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG73854L3",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0044 42737,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7402KRK",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0149 42737,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7402KRN",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0038 42737,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7402KS2",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0043 42737,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7402KS4",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159390 0081 42809,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7402NQL",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158792 0064 42574,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7412HQQ",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159390 0082 42809,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7427QBF",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159512 0108 42846,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7427QBJ",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159512 0103 42846,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7427QC0",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158904 0069 42615,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG74910X2",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158904 0074 42615,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG74910X4",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159114 0077 42703,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8021WZH",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159114 0078 42703,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8044N68",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158792 0063 42574,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8083TZN",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158999 0036 42667,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8083TZQ",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159629 0081 42883,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8083V0J",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0145 42737,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8111PJC",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159390 0083 42809,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8131VTM",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159390 0078 42809,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8186C35",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159220 0063 42742,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8211WT9",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158999 0038 42667,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8243F6K",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158904 0075 42615,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8261QXG",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0037 42737,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8292ZWK",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0146 42737,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8316KJL",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0142 42737,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8316KK8",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159220 0065 42742,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG834936K",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159629 0082 42883,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG834961C",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159313 0049 42789,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8349629",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159390 0079 42809,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG834962N",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159512 0107 42846,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8349636",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159313 0050 42789,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG834963C",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158904 0077 42615,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG834963L",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159313 0047 42789,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8372YH6",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0147 42737,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, MXL91040QX",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0143 42737,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, MXL9172HD5",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0144 42737,1,"COMPUTER, HP, ELITEDESK 800 G3 MINI, MXL9172HLD",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159313 0051 42789,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL7262LZ2",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159114 0081 42703,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL7262M06",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158904 0083 42615,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL73019M2",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159114 0080 42703,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL73019NR",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159512 0109 42846,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL73019PN",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159390 0085 42809,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL7312BD2",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158904 0081 42615,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL7312BD8",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158904 0082 42615,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL7312BDR",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159629 0083 42883,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL73723DL",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159114 0082 42703,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL74621WC",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159114 0079 42703,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL74621X8",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159390 0084 42809,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL74621XB",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158904 0084 42615,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL8171598",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158904 0085 42615,1,"COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL82928L4",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159390 0086 42809,1,"COMPUTER, HP, ELITEDESK 800 G4 MINI I7, 8CC8371S9Q",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0104 42737,1,"COMPUTER, HP, ELITEDESK 800 G4 MINI, 8CC8370062",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0041 42737,1,"COMPUTER, HP, ELITEDESK 800 G4 MINI, 8CC8370067",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0116 42737,1,"COMPUTER, HP, ELITEDESK 800 G4 MINI, 8CG7402KR5",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0112 42737,1,"COMPUTER, HP, ELITEDESK 800 G4 MINI, 8CG8023HBK",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0108 42737,1,"COMPUTER, HP, ELITEDESK 800 G4 MINI, 8CG8111PHM",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0113 42737,1,"COMPUTER, HP, ELITEDESK 800 G4 MINI, 8CG8111PHN",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0106 42737,1,"COMPUTER, HP, ELITEDESK 800 G4 MINI, 8CG8111PHY",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0115 42737,1,"COMPUTER, HP, ELITEDESK 800 G4 MINI, 8CG8111PJ7",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0111 42737,1,"COMPUTER, HP, ELITEDESK 800 G4 MINI, 8CG8111PJ8",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0107 42737,1,"COMPUTER, HP, ELITEDESK 800 G4 MINI, 8CG8292ZW9",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0109 42737,1,"COMPUTER, HP, ELITEDESK 800 G4 MINI, 8CG8292ZX3",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0110 42737,1,"COMPUTER, HP, ELITEDESK 800 G4 MINI, 8CG8316KJM",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0105 42737,1,"COMPUTER, HP, ELITEDESK 800 G4 MINI, 8CG8316KKD",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0114 42737,1,"COMPUTER, HP, ELITEDESK 800 G4 MINI, MXL9172S14",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159512 0111 42846,1,"COMPUTER, HP, ELITEDESK 800 G4 SFF, MXL9022XNC",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0117 42737,1,"COMPUTER, HP, ELITEDESK 800 G4 SFF, MXL9391T9S",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0030 42737,1,"COMPUTER, HP, ELITEDESK 800 G5 SFF, MXL9391T4W",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0087 42737,1,"COMPUTER, HP, ELITEDESK 800 G5, MXL01343LH",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0001 42737,1,"COMPUTER, HP, ELITEDESK 800, 8CG83450TB",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0014 42737,1,"COMPUTER, HP, ELITEDESK G3, MXL6141WFQ",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0101 42737,1,"COMPUTER, HP, ELITEDESK G4, 8CC837000L",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0100 42737,1,"COMPUTER, HP, ELITEDESK G4, MXL9172HCH",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+158201 0065 42382,1,"COMPUTER, HP, ELITEDESK MICRO, 8CG8316KJZ",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158201 0067 42382,1,"COMPUTER, HP, ELITEDESK MICRO, 8CG8316KKX",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158201 0033 42382,1,"COMPUTER, HP, ELITEDESK MICRO, MXL9103QM9",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158201 0027 42382,1,"COMPUTER, HP, ELITEDESK MICRO, MXL9172RYQ",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159205 0072 42737,1,"COMPUTER, HP, ELITEDESK, MXL9134VW2",100.00,12/6/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159629 0002 42883,1,"COMPUTER, LENOVO, M710E, MJ0A66FB",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159386 0016 42563,1,"COMPUTER, LENOVO, M710Q, MJ055YHZ",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159386 0015 42563,1,"COMPUTER, LENOVO, M710Q, MJ055YJ8",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158836 0126 42720,1,"COMPUTER, NUC, INTEL, BTHN810000S8",100.00,12/4/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+158959 0006 42656,1,DESKTOP COMPUTER,100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159620 0004 42875,1,"DESKTOP COMPUTER, 4MTVQD2",100.00,12/5/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0091 42768,1,"DESKTOP COMPUTER, APPLE, IMAC 27 2018",100.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+158263 0011 42415,1,"DESKTOP COMPUTER, CUSTOM, IM-GEN168",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158802 0078 42608,1,"DESKTOP COMPUTER, DELL",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158802 0080 42608,1,"DESKTOP COMPUTER, DELL",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158802 0087 42608,1,"DESKTOP COMPUTER, DELL",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0001 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0002 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0003 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0006 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0007 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0008 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0009 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0010 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0011 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0014 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0016 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0017 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0018 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0020 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0025 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0026 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0027 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0028 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0029 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0030 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0032 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0033 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0068 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0073 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159281 0085 42768,1,"DESKTOP COMPUTER, DELL",50.00,12/12/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+158716 0001 42330,1,"DESKTOP COMPUTER, DELL, OPTIPLEX 5050 MFF,",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158716 0003 42330,1,"DESKTOP COMPUTER, DELL, OPTIPLEX 5050 MFF,",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158716 0002 42330,1,"DESKTOP COMPUTER, DELL, OPTIPLEX 5050 MFF,",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+157411 0004 42577,1,"DESKTOP COMPUTER, DELL, OPTIPLEX 7050",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+157411 0007 42577,1,"DESKTOP COMPUTER, DELL, OPTIPLEX 7050",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+157411 0008 42577,1,"DESKTOP COMPUTER, DELL, OPTIPLEX 7050",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+157411 0009 42577,1,"DESKTOP COMPUTER, DELL, OPTIPLEX 7050",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+157411 0010 42577,1,"DESKTOP COMPUTER, DELL, OPTIPLEX 7050",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+157411 0011 42577,1,"DESKTOP COMPUTER, DELL, OPTIPLEX 7050",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+157411 0013 42577,1,"DESKTOP COMPUTER, DELL, OPTIPLEX 7050",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+157411 0014 42577,1,"DESKTOP COMPUTER, DELL, OPTIPLEX 7050",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158481 0052 42749,1,"DESKTOP COMPUTER, DELL, OPTIPLEX 7050, 30T5HQ2",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158481 0053 42749,1,"DESKTOP COMPUTER, DELL, OPTIPLEX 7050, 7R7CXM2",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158481 0054 42749,1,"DESKTOP COMPUTER, DELL, OPTIPLEX 7050, 7R86XM2",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158481 0057 42749,1,"DESKTOP COMPUTER, DELL, OPTIPLEX 7050, H76PCH2",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159177 0007 42723,1,"DESKTOP COMPUTER, H335XQ2",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159620 0024 42875,1,"DESKTOP COMPUTER, HJQLGK2",100.00,12/5/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159422 0014 42722,1,"DESKTOP COMPUTER, HP, 800 G3 MINI, 8CG7357QN",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159422 0013 42722,1,"DESKTOP COMPUTER, HP, 800 G3 MINI, 8CG8316QH",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159506 0003 42950,1,"DESKTOP COMPUTER, HP, ELITEDESK 800 G3 SFF,",50.00,12/15/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159506 0002 42950,1,"DESKTOP COMPUTER, HP, ELITEDESK 800 G3 SFF,",50.00,12/15/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+159506 0001 42950,1,"DESKTOP COMPUTER, HP, ELITEDESK 800 G3 SFF,",50.00,12/15/2023,CPU,Computer/IT/Telecommunication Equipment/Supply
+158557 0003 42668,1,"DESKTOP COMPUTER, HP, ELITEDESK 800 G3,",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159387 0009 42563,1,"DESKTOP COMPUTER, LENOVO, M910Q, MJ05DBEF",100.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158519 0004 42496,1,"DESKTOP COMPUTER, MXL817159L",50.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+158915 0045 42631,1,"TOWER, COMPUTER, HP, SFF, MXL04232W3",200.00,null,CPU,Computer/IT/Telecommunication Equipment/Supply
+159620 0006 42875,1,"LAPTOP, 2S8LSQ2",100.00,12/5/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159620 0008 42875,1,"LAPTOP, 3T291Z2",100.00,12/5/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159620 0016 42875,1,"LAPTOP, 57NQ8Y2",100.00,12/5/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159620 0012 42875,1,"LAPTOP, 6KWBST2",100.00,12/5/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159620 0007 42875,1,"LAPTOP, 81QPZY2",100.00,12/5/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159307 0005 42785,1,"LAPTOP, ACER",50.00,12/15/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158836 0081 42720,1,"LAPTOP, APPLE, LATITUDE 7400, BT9Q0Z2",100.00,12/4/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159281 0049 42768,1,"LAPTOP, DELL",50.00,12/12/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159281 0050 42768,1,"LAPTOP, DELL",50.00,12/12/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159281 0053 42768,1,"LAPTOP, DELL",50.00,12/12/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159281 0055 42768,1,"LAPTOP, DELL",50.00,12/12/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159281 0056 42768,1,"LAPTOP, DELL",50.00,12/12/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159281 0057 42768,1,"LAPTOP, DELL",50.00,12/12/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159281 0058 42768,1,"LAPTOP, DELL",50.00,12/12/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159281 0060 42768,1,"LAPTOP, DELL",50.00,12/12/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159281 0061 42768,1,"LAPTOP, DELL",50.00,12/12/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159281 0062 42768,1,"LAPTOP, DELL",50.00,12/12/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159281 0064 42768,1,"LAPTOP, DELL",100.00,12/12/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159281 0065 42768,1,"LAPTOP, DELL",100.00,12/12/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159281 0066 42768,1,"LAPTOP, DELL",100.00,12/12/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159281 0067 42768,1,"LAPTOP, DELL",100.00,12/12/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159281 0074 42768,1,"LAPTOP, DELL",50.00,12/12/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159281 0086 42768,1,"LAPTOP, DELL",100.00,12/12/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159281 0087 42768,1,"LAPTOP, DELL",50.00,12/12/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159281 0088 42768,1,"LAPTOP, DELL",50.00,12/12/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159281 0090 42768,1,"LAPTOP, DELL",100.00,12/12/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+142037 0006 42795,1,"LAPTOP, DELL, 3541",200.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159386 0001 42563,1,"LAPTOP, DELL, 7400, 7S7W063",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158836 0049 42720,1,"LAPTOP, DELL, INSPIRON, 34TJZB2",50.00,12/4/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158481 0024 42749,1,"LAPTOP, DELL, LATITUDE 3400, 1QCKMT2",50.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159168 0026 42740,1,"LAPTOP, DELL, LATITUDE 3500, 282JLW2",100.00,12/4/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159168 0016 42740,1,"LAPTOP, DELL, LATITUDE 3500, 292JLW2",100.00,12/4/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159168 0017 42740,1,"LAPTOP, DELL, LATITUDE 3500, 772JLW2",100.00,12/4/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159168 0019 42740,1,"LAPTOP, DELL, LATITUDE 3500, DHB9PW2",100.00,12/4/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159168 0018 42740,1,"LAPTOP, DELL, LATITUDE 3500, F62JLW2",100.00,12/4/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159168 0033 42740,1,"LAPTOP, DELL, LATITUDE 3590, 2K19KR2",100.00,12/4/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159168 0034 42740,1,"LAPTOP, DELL, LATITUDE 3590, 5K19KR2",100.00,12/4/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159629 0014 42883,1,"LAPTOP, DELL, LATITUDE 5400, 15RQ3Z2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159629 0016 42883,1,"LAPTOP, DELL, LATITUDE 5400, 1Q900Z2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159629 0012 42883,1,"LAPTOP, DELL, LATITUDE 5400, 2TKTL33",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158999 0015 42667,1,"LAPTOP, DELL, LATITUDE 5400, 30J6N13",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158904 0005 42615,1,"LAPTOP, DELL, LATITUDE 5400, 38499Y2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158904 0017 42615,1,"LAPTOP, DELL, LATITUDE 5400, 3C2PZY2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159629 0021 42883,1,"LAPTOP, DELL, LATITUDE 5400, 4J8TL13",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158904 0006 42615,1,"LAPTOP, DELL, LATITUDE 5400, 548PZY2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158999 0019 42667,1,"LAPTOP, DELL, LATITUDE 5400, 631CK13",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159629 0019 42883,1,"LAPTOP, DELL, LATITUDE 5400, 791F5Y2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159629 0020 42883,1,"LAPTOP, DELL, LATITUDE 5400, 8BGTL33",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159629 0025 42883,1,"LAPTOP, DELL, LATITUDE 5400, 8VRSL33",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159629 0017 42883,1,"LAPTOP, DELL, LATITUDE 5400, 92XD5Y2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159629 0011 42883,1,"LAPTOP, DELL, LATITUDE 5400, B656N13",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158317 0011 42683,1,"LAPTOP, DELL, LATITUDE 5400, BH25ZY2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159629 0009 42883,1,"LAPTOP, DELL, LATITUDE 5400, BPJXZY2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159629 0010 42883,1,"LAPTOP, DELL, LATITUDE 5400, CFDXL33",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158792 0012 42574,1,"LAPTOP, DELL, LATITUDE 5400, DHW4ZY2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159629 0024 42883,1,"LAPTOP, DELL, LATITUDE 5400, DP189Y2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158904 0019 42615,1,"LAPTOP, DELL, LATITUDE 5400, DQRNYY2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159629 0013 42883,1,"LAPTOP, DELL, LATITUDE 5400, DXP4ZY2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159629 0022 42883,1,"LAPTOP, DELL, LATITUDE 5400, FWPHYY2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159629 0018 42883,1,"LAPTOP, DELL, LATITUDE 5400, FY7PZY2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159629 0026 42883,1,"LAPTOP, DELL, LATITUDE 5400, GLDC5Y2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159114 0014 42703,1,"LAPTOP, DELL, LATITUDE 5400, HD789Y2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159390 0005 42809,1,"LAPTOP, DELL, LATITUDE 5400, HND7ZY2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158792 0014 42574,1,"LAPTOP, DELL, LATITUDE 5400, JLGYZY2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159629 0027 42883,1,"LAPTOP, DELL, LATITUDE 5410, 2BN1Q73",200.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158481 0017 42749,1,"LAPTOP, DELL, LATITUDE 7390, BDKTQQ2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159507 0001 42909,1,"LAPTOP, DELL, LATITUDE 7400 2IN1, CH2N63Z2",100.00,12/6/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158836 0127 42720,1,"LAPTOP, DELL, LATITUDE 7400, 6HLLZY2",100.00,12/4/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158836 0026 42720,1,"LAPTOP, DELL, LATITUDE 7400, HR4MZY2",100.00,12/4/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158836 0051 42720,1,"LAPTOP, DELL, LATITUDE 7400, HS2NYZ2",100.00,12/4/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+157995 0005 42443,1,"LAPTOP, DELL, LATITUDE 7470, 329KJR2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158836 0038 42720,1,"LAPTOP, DELL, LATITUDE 7480, 2PSCZM2",50.00,12/4/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158481 0013 42749,1,"LAPTOP, DELL, LATITUDE 7480, 4KYSPQ2",50.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158519 0002 42496,1,"LAPTOP, DELL, LATITUDE 7480, P73G001",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158481 0014 42749,1,"LAPTOP, DELL, LATITUDE 7490, 25DHNV2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158481 0016 42749,1,"LAPTOP, DELL, LATITUDE 7490, B3M9PV2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158481 0020 42749,1,"LAPTOP, DELL, LATITUDE 7490, FDPJPV2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158481 0023 42749,1,"LAPTOP, DELL, LATITUDE 7490, HJNLNV2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158317 0008 42683,1,"LAPTOP, DELL, LATITUDE 9290, J21KS2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158317 0010 42683,1,"LAPTOP, DELL, LATITUDE 9480",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159507 0002 42909,1,"LAPTOP, DELL, XPS 15 9550, 20H5S72",100.00,12/6/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159507 0003 42909,1,"LAPTOP, DELL, XPS 15 9570, 8VM6SQ2",100.00,12/6/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158836 0010 42720,1,"LAPTOP, DELL, XPS 8700, 3H03082",100.00,12/4/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158836 0036 42720,1,"LAPTOP, DELL, XPS, 11Z0TT2",50.00,12/4/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158836 0048 42720,1,"LAPTOP, DELL, XPS, FGQMNQ2",50.00,12/4/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159307 0002 42785,1,"LAPTOP, DELL, XPS, G6Q6HR2",50.00,12/15/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159620 0010 42875,1,"LAPTOP, FY942Z2",100.00,12/5/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159177 0006 42723,1,"LAPTOP, G7KHHM2",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159205 0059 42737,1,"LAPTOP, HP, 5CG9111WQM",50.00,12/6/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158792 0056 42574,1,"LAPTOP, HP, ELITEBOOK 840 G3, 5CG6411060",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159220 0037 42742,1,"LAPTOP, HP, ELITEBOOK 840 G3, 5CG70349KJ",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159114 0055 42703,1,"LAPTOP, HP, ELITEBOOK 840 G3, 5CG70349U",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159220 0038 42742,1,"LAPTOP, HP, ELITEBOOK 840 G3, 5CG723639L",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158201 0003 42382,1,"LAPTOP, HP, ELITEBOOK 840, 5CG7213XB9",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159629 0068 42883,1,"LAPTOP, HP, ELITEBOOK 850 G3, 5CG7031C6Z",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159638 0001 42887,1,"LAPTOP, HP, SPECTRE",200.00,12/12/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158836 0097 42720,1,"LAPTOP, HP, SPECTRE, 5CD8162D7P",100.00,12/4/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+159307 0004 42785,1,"LAPTOP, LENOVO, P201TT4J",50.00,12/15/2023,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158540 0042 42330,1,"LAPTOP, LENOVO, T480, PF1840GN",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158540 0040 42330,1,"LAPTOP, LENOVO, T480, PF18WAZK",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158540 0044 42330,1,"LAPTOP, LENOVO, T480, PF1FVE6D",100.00,null,Laptop/Notebook,Computer/IT/Telecommunication Equipment/Supply
+158055 0022 42319,1,MONITOR,50.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158201 0093 42382,7,MONITOR,40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158416 0021 42464,1,MONITOR,40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158519 0018 42496,1,MONITOR,40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+159052 0006 42448,1,MONITOR,40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+159205 0140 42737,8,MONITOR,40.00,12/6/2023,Monitor,Computer/IT/Telecommunication Equipment/Supply
+159281 0093 42768,1,MONITOR,40.00,12/12/2023,Monitor,Computer/IT/Telecommunication Equipment/Supply
+159577 0002 42863,1,MONITOR,40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158951 0018 42650,1,"MONITOR, ACER, LCD",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158836 0112 42720,1,"MONITOR, ASUS, B3LMQS054574",40.00,12/4/2023,Monitor,Computer/IT/Telecommunication Equipment/Supply
+156265 0005 42728,1,"MONITOR, BENQ, ETP5D0044BSL0",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+157478 0001 42917,6,"MONITOR, DEL, P2419H",40.00,12/12/2023,Monitor,Computer/IT/Telecommunication Equipment/Supply
+157475 0001 42911,2,"MONITOR, DELL",40.00,12/7/2023,Monitor,Computer/IT/Telecommunication Equipment/Supply
+156264 0012 42728,1,"MONITOR, DELL, CN-0KG49T-74261-IBO-089U",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158537 0005 42500,1,"MONITOR, HP",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158537 0033 42500,1,"MONITOR, HP",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158537 0035 42500,1,"MONITOR, HP",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158537 0036 42500,1,"MONITOR, HP",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158538 0075 42500,1,"MONITOR, HP",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158538 0078 42500,1,"MONITOR, HP",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+159205 0153 42737,1,"MONITOR, HP",40.00,12/6/2023,Monitor,Computer/IT/Telecommunication Equipment/Supply
+159387 0030 42563,1,"MONITOR, HP",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+159390 0054 42809,1,"MONITOR, HP, 24 LED, CNK542162R",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158264 0026 42414,1,"MONITOR, HP, 24 LED, CNK6210D4X",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158537 0008 42500,1,"MONITOR, LENOVO",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158537 0009 42500,1,"MONITOR, LENOVO",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158537 0012 42500,1,"MONITOR, LENOVO",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158537 0016 42500,1,"MONITOR, LENOVO",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158537 0017 42500,1,"MONITOR, LENOVO",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158537 0018 42500,1,"MONITOR, LENOVO",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158537 0019 42500,1,"MONITOR, LENOVO",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158537 0020 42500,1,"MONITOR, LENOVO",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158537 0021 42500,1,"MONITOR, LENOVO",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158537 0022 42500,1,"MONITOR, LENOVO",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158537 0028 42500,1,"MONITOR, LENOVO",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158537 0030 42500,1,"MONITOR, LENOVO",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158538 0097 42500,1,"MONITOR, LENOVO",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158538 0004 42500,1,"MONITOR, LENOVO, 24""",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158538 0021 42500,1,"MONITOR, LENOVO, 24""",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158538 0029 42500,1,"MONITOR, LENOVO, 24""",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158538 0031 42500,1,"MONITOR, LENOVO, 24""",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158538 0039 42500,1,"MONITOR, LENOVO, 24""",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158538 0045 42500,1,"MONITOR, LENOVO, 24""",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158538 0047 42500,1,"MONITOR, LENOVO, 24""",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158538 0051 42500,1,"MONITOR, LENOVO, 24""",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158538 0054 42500,1,"MONITOR, LENOVO, 24""",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158538 0056 42500,1,"MONITOR, LENOVO, 24""",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158538 0062 42500,1,"MONITOR, LENOVO, 24""",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158538 0063 42500,1,"MONITOR, LENOVO, 24""",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158538 0065 42500,1,"MONITOR, LENOVO, 24""",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158538 0066 42500,1,"MONITOR, LENOVO, 24""",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158538 0079 42500,1,"MONITOR, LENOVO, 24""",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158716 0042 42330,1,"MONITOR, LENOVO, LT2423, VNA03PM0",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+159386 0006 42563,1,"MONITOR, LENOVO, LT2423, VNA03PMC",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158716 0037 42330,1,"MONITOR, LENOVO, LT2423, VNA03PMK",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+159386 0008 42563,1,"MONITOR, LENOVO, LT2423, VNA03PMW",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+159386 0009 42563,1,"MONITOR, LENOVO, LT2423, VNA03PMX",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+159386 0005 42563,1,"MONITOR, LENOVO, LT2423, VNA03PN0",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158716 0041 42330,1,"MONITOR, LENOVO, LT2423, VNA03PN1",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+159386 0002 42563,1,"MONITOR, LENOVO, LT2423, VNA03PN4",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+159386 0010 42563,1,"MONITOR, LENOVO, LT2423, VNA03PN7",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+159386 0007 42563,1,"MONITOR, LENOVO, LT2423, VNA03PN9",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+159386 0004 42563,1,"MONITOR, LENOVO, LT2423, VNA03PNA",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+159386 0011 42563,1,"MONITOR, LENOVO, LT2423, VNA03PNB",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+159386 0013 42563,1,"MONITOR, LENOVO, LT2424, V1769408",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+159386 0036 42563,1,"MONITOR, LENOVO, T2424P, SV1C49738",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158537 0007 42500,1,"MONITOR, NEC",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158537 0032 42500,1,"MONITOR, NEC",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158398 0014 42450,1,"MONITOR, NEC, 24 LCD, S25104926NA",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+159512 0128 42846,1,"MONITOR, NEC, 24 LCD, S38131209NA",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+159220 0084 42742,1,"MONITOR, NEC, 24 LED, S3X134033NA",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+159390 0110 42809,1,"MONITOR, NEC, 24 LED, S41100311NA",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+157457 0004 42842,1,"MONITOR, NEC, 32""",50.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+158538 0083 42500,1,"MONITOR, SAMSUNG",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+157995 0030 42443,1,"MONITOR, SAMSUNG, P2770H, Z1U4HCLZ800393E",40.00,null,Monitor,Computer/IT/Telecommunication Equipment/Supply
+156996 0095 42722,1,"STORAGE ARRAY, DROBO, PRO, TDB103640326",100.00,null,Network/Server,Computer/IT/Telecommunication Equipment/Supply
+156996 0096 42722,1,"STORAGE ARRAY, DROBO, PRO, TDB93040516",100.00,null,Network/Server,Computer/IT/Telecommunication Equipment/Supply
+156996 0023 42722,1,"DIGITAL PROCESSOR, SYNCHRONIZER, DPS-265, 4L265005",40.00,null,Peripheral/Components/Parts/Input Devices,Computer/IT/Telecommunication Equipment/Supply
+159612 0025 42944,1,"MITER SAW, MAKITA, 10"" 120V LS1013, 100355A",200.00,12/15/2023,Construction/Hardware/Tool Equipment/Supply,Construction/Hardware/Tool Equipment/Supply
+159612 0013 42944,1,"NAIL GUN, HITACHI, NR 90AE",40.00,12/15/2023,Construction/Hardware/Tool Equipment/Supply,Construction/Hardware/Tool Equipment/Supply
+157466 0003 42885,1,SAW,100.00,null,Construction/Hardware/Tool Equipment/Supply,Construction/Hardware/Tool Equipment/Supply
+159612 0028 42944,1,"SAW, DELTA, SHOPMASTER DP350, 200705-XL",200.00,12/15/2023,Construction/Hardware/Tool Equipment/Supply,Construction/Hardware/Tool Equipment/Supply
+159612 0019 42944,1,"SAW, JET BAND, JWBS-14CS, 17020232",400.00,12/15/2023,Construction/Hardware/Tool Equipment/Supply,Construction/Hardware/Tool Equipment/Supply
+159612 0018 42944,1,"SAW, SCROLL, P-20 20"", 40-630",200.00,12/15/2023,Construction/Hardware/Tool Equipment/Supply,Construction/Hardware/Tool Equipment/Supply
+157389 0009 42507,1,"TOOL, CRITICOOL",100.00,null,Construction/Hardware/Tool Equipment/Supply,Construction/Hardware/Tool Equipment/Supply
+159612 0027 42944,1,"TOOLBOX, HOMAK, SPLIT LEVEL",200.00,12/15/2023,Construction/Hardware/Tool Equipment/Supply,Construction/Hardware/Tool Equipment/Supply
+158547 0002 42507,1,"CONNECTOR, AIDA, HC",50.00,null,Electrical Equipment/Supply,Electrical Equipment/Supply
+158548 0002 42507,1,"CONNECTOR, AIDA, HC",50.00,null,Electrical Equipment/Supply,Electrical Equipment/Supply
+158548 0003 42507,1,"CONNECTOR, AIDA, HC",50.00,null,Electrical Equipment/Supply,Electrical Equipment/Supply
+158905 0008 42653,1,"LAMP, SKYTRON, ROLLS",200.00,null,Lighting,Electrical Equipment/Supply
+157419 0001 42694,1,"LIGHT BOARD, MARANTZ",100.00,null,Lighting,Electrical Equipment/Supply
+159216 0003 42557,1,"PUMP, AIRCOMP, REPLACEMENT",80.00,null,Motor/Pump,Electrical Equipment/Supply
+159699 0025 42815,1,"PUMP, METERING, ELDEX LABS, B-100-5",75.00,12/6/2023,Motor/Pump,Electrical Equipment/Supply
+158416 0009 42464,1,POWER BACK-UP,200.00,null,Power Supply/Transformer,Electrical Equipment/Supply
+158073 0059 42431,1,"POWER SUPPLY, ZEISS EYE SCOPE, 154866",50.00,null,Power Supply/Transformer,Electrical Equipment/Supply
+159551 0001 42854,1,COFFEE MAKER,75.00,null,Food Service and Kitchen Equipment/Supply,Food Service and Kitchen Equipment/Supply
+159551 0002 42854,1,COFFEE MAKER,50.00,null,Food Service and Kitchen Equipment/Supply,Food Service and Kitchen Equipment/Supply
+158044 0001 42528,1,"ICE MACHINE, SCOTSMAN, CME1202AE-32A, 985642-07N",200.00,null,Food Service and Kitchen Equipment/Supply,Food Service and Kitchen Equipment/Supply
+159344 0002 42786,1,"VACUUM, HOOVER",50.00,null,Janitorial/Laundry/Cleaning,Janitorial/Laundry/Cleaning
+157389 0026 42507,1,"SCALE, OR, STORZ",50.00,null,Balance/Scale,Laboratory/Scientific/Medical Equipment/Supply
+158073 0022 42431,1,"CRYOSTAT, LEICA CM 1900, 0452227382",200.00,null,Biomedical/Clinical,Laboratory/Scientific/Medical Equipment/Supply
+158073 0058 42431,1,"EYE SCOPE, ZEISS, 165524",200.00,null,Biomedical/Clinical,Laboratory/Scientific/Medical Equipment/Supply
+158073 0116 42431,1,"ANALYZER, FIELD",200.00,null,Electronic/Test Equipment,Laboratory/Scientific/Medical Equipment/Supply
+157549 0043 42138,1,"METER, MARCO, LENSMETER 101",100.00,null,Electronic/Test Equipment,Laboratory/Scientific/Medical Equipment/Supply
+158216 0038 42388,1,OSCILLOSCOPE,100.00,null,Electronic/Test Equipment,Laboratory/Scientific/Medical Equipment/Supply
+159198 0001 42485,4,"FREEZER RACK, LAB, IN BOX",50.00,null,Freezer/Refrigerator,Laboratory/Scientific/Medical Equipment/Supply
+158882 0022 42606,1,"LABORATORY SMALL SUPPLY, HOBONODE, DATA",100.00,null,Laboratory Scientific Equipment/Supply,Laboratory/Scientific/Medical Equipment/Supply
+155990 0030 41830,1,REACTION SYSTEM,100.00,null,Laboratory Scientific Equipment/Supply,Laboratory/Scientific/Medical Equipment/Supply
+159240 0007 42755,1,"CART, MEDICAL",40.00,12/7/2023,Medical,Laboratory/Scientific/Medical Equipment/Supply
+157549 0032 42138,1,COLPOSCOPE,100.00,null,Medical,Laboratory/Scientific/Medical Equipment/Supply
+159627 0001 42882,1,"EXAM BED, PT BED, 104-035-201-1, V166389",50.00,null,Medical,Laboratory/Scientific/Medical Equipment/Supply
+159684 0001 42902,1,"HEADLIGHT, MEDICAL, WA SOLARC, WA49520, 49501",50.00,12/13/2023,Medical,Laboratory/Scientific/Medical Equipment/Supply
+157389 0010 42507,1,"MEDICAL DEVICE, TECHNEGAS, TECHNEGAS PLUS",200.00,null,Medical,Laboratory/Scientific/Medical Equipment/Supply
+158548 0001 42507,1,"MONITOR, MEDICAL, STERIS, WALL",75.00,null,Medical,Laboratory/Scientific/Medical Equipment/Supply
+158547 0013 42507,1,"MONITOR, MEDICAL, WALL",75.00,null,Medical,Laboratory/Scientific/Medical Equipment/Supply
+158547 0014 42507,1,"MONITOR, MEDICAL, WALL",75.00,null,Medical,Laboratory/Scientific/Medical Equipment/Supply
+158548 0004 42507,1,"MONITOR, MEDICAL, WALL",75.00,null,Medical,Laboratory/Scientific/Medical Equipment/Supply
+158548 0005 42507,1,"MONITOR, MEDICAL, WALL",75.00,null,Medical,Laboratory/Scientific/Medical Equipment/Supply
+151736 0001 42333,1,"TOPOGRAPHY SYSTEM, ATLAS, 991, 991-2272",200.00,null,Medical,Laboratory/Scientific/Medical Equipment/Supply
+157472 0002 42898,2,MICROSCOPE,75.00,12/5/2023,Microscope,Laboratory/Scientific/Medical Equipment/Supply
+157472 0003 42898,3,MICROSCOPE,50.00,12/5/2023,Microscope,Laboratory/Scientific/Medical Equipment/Supply
+157472 0004 42898,5,MICROSCOPE,75.00,12/5/2023,Microscope,Laboratory/Scientific/Medical Equipment/Supply
+158073 0119 42431,1,MICROSCOPE,200.00,null,Microscope,Laboratory/Scientific/Medical Equipment/Supply
+157935 0007 42333,1,"MICROSCOPE, 120020",250.00,null,Microscope,Laboratory/Scientific/Medical Equipment/Supply
+159447 0003 42829,1,"MICROSCOPE, CARL ZEISS INC, OPTIX, 5501587",100.00,12/13/2023,Microscope,Laboratory/Scientific/Medical Equipment/Supply
+157935 0013 42333,1,"MICROSCOPE, D01957",50.00,null,Microscope,Laboratory/Scientific/Medical Equipment/Supply
+157474 0001 42903,1,"MICROSCOPE, NIKON",250.00,12/13/2023,Microscope,Laboratory/Scientific/Medical Equipment/Supply
+158782 0001 42571,1,"MICROSCOPE, NIKON, ELWD0.3",250.00,null,Microscope,Laboratory/Scientific/Medical Equipment/Supply
+158216 0043 42388,1,"MICROSCOPE, REICHERT, BIOSTAR",100.00,null,Microscope,Laboratory/Scientific/Medical Equipment/Supply
+159527 0003 42848,1,"MICROSCOPE, ZEISS, AXIOSKOP FS, 121777",75.00,12/5/2023,Microscope,Laboratory/Scientific/Medical Equipment/Supply
+156844 0007 42321,1,"MICROSCOPE, ZEISS, AXIOVERT 10",100.00,null,Microscope,Laboratory/Scientific/Medical Equipment/Supply
+157750 0001 42333,1,"INCUBATOR, BIOSPHERIC",50.00,null,Oven/Chamber/Incubator/Furnace,Laboratory/Scientific/Medical Equipment/Supply
+158073 0082 42431,1,"OVEN, HYBRIDIZATION, BELLCO, BMH0954",40.00,null,Oven/Chamber/Incubator/Furnace,Laboratory/Scientific/Medical Equipment/Supply
+159484 0001 42836,1,RACK,55.00,12/14/2023,Rack/Cage,Laboratory/Scientific/Medical Equipment/Supply
+158882 0019 42606,1,"SPECTROMETER, MIR, 8000",75.00,null,Spectrophotometer/Spectrometer,Laboratory/Scientific/Medical Equipment/Supply
+159240 0003 42755,1,"AIR COMPRESSOR, JUN-AIR, 0418800888",100.00,12/7/2023,Machinery,Machinery/Industrial
+159612 0015 42944,1,"DUST COLLECTOR, DELTA, 50-850, SF-0003",200.00,12/15/2023,Machinery,Machinery/Industrial
+159612 0016 42944,1,"DUST COLLECTOR, DELTA, 50-850, SF-0004",200.00,12/15/2023,Machinery,Machinery/Industrial
+159612 0017 42944,1,"TABLE SAW, CRAFTSMAN, 10"" P, C48BXGMJ579-A-240V",200.00,12/15/2023,Machinery,Machinery/Industrial
+159216 0011 42557,5,"TANK, EXPANSION",50.00,null,Machinery,Machinery/Industrial
+159240 0001 42755,1,"CART, UTILITY, HERMAN MILLER",50.00,12/7/2023,Material Handling Equipment,Material Handling Equipment
+158581 0001 42568,1,"CART, VEVOR, DOUBLE SIDED BOOK CART, BLUE",50.00,null,Material Handling Equipment,Material Handling Equipment
+159111 0001 42699,1,"DISPLAY CASE, GLASS SHELVES, GLASS SLIDING DOORS",80.00,null,"Cabinet, Display",Office/School/Furniture Equipment/Supply
+157407 0001 42501,1,BOOKCASE,40.00,null,Cabinet/Shelf,Office/School/Furniture Equipment/Supply
+158015 0001 42305,2,CABINET,50.00,null,Cabinet/Shelf,Office/School/Furniture Equipment/Supply
+158631 0001 42549,1,"CABINET, METAL, QUARANTINE",100.00,null,Cabinet/Shelf,Office/School/Furniture Equipment/Supply
+158961 0002 42433,1,"BENCH, 4 SEAT",40.00,null,Chair/Couch/Stool,Office/School/Furniture Equipment/Supply
+159570 0002 42860,1,"CHAIR, SWIVIL",40.00,null,Chair/Couch/Stool,Office/School/Furniture Equipment/Supply
+158639 0001 42536,1,CREDENZA,40.00,null,Desk,Office/School/Furniture Equipment/Supply
+157354 0002 42432,2,DESK,50.00,null,Desk,Office/School/Furniture Equipment/Supply
+157372 0005 42502,1,DESK,40.00,null,Desk,Office/School/Furniture Equipment/Supply
+157421 0003 42642,1,DESK,40.00,null,Desk,Office/School/Furniture Equipment/Supply
+157430 0006 42488,5,DESK,50.00,null,Desk,Office/School/Furniture Equipment/Supply
+157447 0001 42612,1,DESK,40.00,null,Desk,Office/School/Furniture Equipment/Supply
+157750 0050 42333,1,DESK,50.00,null,Desk,Office/School/Furniture Equipment/Supply
+158144 0008 42367,5,DESK,50.00,null,Desk,Office/School/Furniture Equipment/Supply
+158465 0002 42479,2,DESK,40.00,null,Desk,Office/School/Furniture Equipment/Supply
+159367 0001 42808,1,"DESK, ADJUSTABLE",40.00,null,Desk,Office/School/Furniture Equipment/Supply
+158595 0001 42555,1,"DESK, BROWN",50.00,null,Desk,Office/School/Furniture Equipment/Supply
+159304 0010 42782,1,"DESK, CORNER",40.00,12/14/2023,Desk,Office/School/Furniture Equipment/Supply
+159696 0001 42881,1,"DESK, EXECUTIVE",50.00,12/13/2023,Desk,Office/School/Furniture Equipment/Supply
+159631 0001 42881,1,"DESK, EXECUTIVE, LG",70.00,12/13/2023,Desk,Office/School/Furniture Equipment/Supply
+150914 0007 42607,1,"DESK, GRAY",40.00,null,Desk,Office/School/Furniture Equipment/Supply
+159304 0005 42782,1,"DESK, RECEPTION",50.00,12/14/2023,Desk,Office/School/Furniture Equipment/Supply
+158539 0003 42503,1,"DESK, WOOD",40.00,null,Desk,Office/School/Furniture Equipment/Supply
+158724 0001 42560,1,"DESK, WOOD",40.00,null,Desk,Office/School/Furniture Equipment/Supply
+159342 0006 42800,1,STANDING DESK,40.00,12/15/2023,Desk,Office/School/Furniture Equipment/Supply
+159193 0007 42733,1,STANDING DESK CONVERTER,40.00,null,Desk,Office/School/Furniture Equipment/Supply
+159618 0001 42874,1,"STANDING DESK CONVERTER, VARIDESK",40.00,12/4/2023,Desk,Office/School/Furniture Equipment/Supply
+157421 0024 42642,1,FILE CABINET,50.00,null,File Cabinet,Office/School/Furniture Equipment/Supply
+157469 0001 42877,1,FILE CABINET,40.00,12/4/2023,File Cabinet,Office/School/Furniture Equipment/Supply
+158144 0010 42367,1,FILE CABINET,40.00,null,File Cabinet,Office/School/Furniture Equipment/Supply
+158245 0004 42401,1,FILE CABINET,50.00,null,File Cabinet,Office/School/Furniture Equipment/Supply
+157368 0007 42458,1,"FILE CABINET, 4 DRAWER",40.00,null,File Cabinet,Office/School/Furniture Equipment/Supply
+159304 0006 42782,1,"FILE CABINET, 4 DRAWER",50.00,12/14/2023,File Cabinet,Office/School/Furniture Equipment/Supply
+159318 0001 42820,1,"FILE CABINET, 5 DRAWER, HON",50.00,null,File Cabinet,Office/School/Furniture Equipment/Supply
+158565 0001 42508,1,TABLE,40.00,null,Table/Stand,Office/School/Furniture Equipment/Supply
+158882 0006 42606,1,TABLE,40.00,null,Table/Stand,Office/School/Furniture Equipment/Supply
+158618 0002 42530,1,"TABLE, CONFERENCE",40.00,null,Table/Stand,Office/School/Furniture Equipment/Supply
+159699 0017 42815,1,"TABLE, DRAFTING",75.00,12/6/2023,Table/Stand,Office/School/Furniture Equipment/Supply
+157431 0001 42759,1,"EXERCISE BIKE, STAR TRAC, EUB",300.00,null,Sports/Exercise/Outdoor Recreation Equipment,Sports/Exercise/Outdoor Recreation Equipment
+157479 0001 42922,1,"EXERCISE MACHINE, TOTAL GYM",100.00,12/12/2023,Sports/Exercise/Outdoor Recreation Equipment,Sports/Exercise/Outdoor Recreation Equipment
+159341 0003 42799,1,PING PONG TABLE,45.00,12/12/2023,Sports/Exercise/Outdoor Recreation Equipment,Sports/Exercise/Outdoor Recreation Equipment
